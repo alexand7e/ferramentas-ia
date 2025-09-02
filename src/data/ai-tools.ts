@@ -327,7 +327,7 @@ export const aiToolsData: AITool[] = [
       "description": "Assistente de escrita em português que utiliza inteligência artificial para revisar e aprimorar textos, oferecendo correções gramaticais, sugestões de estilo e ferramentas de reescrita",
       "category": "Escrita e Comunicação",
       "license": "Gratuito e Pago",
-      "usability": 0,
+      "usability": 3,
       "features": [
         "Correção ortográfica e gramatical",
         "Sugestões de estilo e clareza",
