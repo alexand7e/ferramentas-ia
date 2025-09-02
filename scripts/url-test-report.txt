@@ -1,0 +1,419 @@
+RELATÓRIO DE TESTE DE URLs - AI TOOLS
+Gerado em: 02/09/2025, 09:03:46
+============================================================
+
+RESUMO:
+Total de URLs testadas: 288
+URLs funcionando: 249 (86.5%)
+URLs com problemas: 39 (13.5%)
+
+URLS COM PROBLEMAS:
+----------------------------------------
+1. [LINK] https://listenmonster.com/
+   Status: 521
+   Erro: Status HTTP inválido
+
+2. [LINK] https://www.perplexity.ai/
+   Status: 403
+   Erro: Status HTTP inválido
+
+3. [LINK] https://10web.io/ai-website-builder/
+   Status: 403
+   Erro: Status HTTP inválido
+
+4. [LINK] https://uizard.io/
+   Status: 503
+   Erro: Status HTTP inválido
+
+5. [LINK] https://pictory.ai/home2a?el=2000&htrafficsource=pictoryblog
+   Status: 403
+   Erro: Status HTTP inválido
+
+6. [LINK] https://www.speechy.com/
+   Status: 403
+   Erro: Status HTTP inválido
+
+7. [LINK] https://hailuoai.video/?gad_source=1&gclid=CjwKCAjw47i_BhBTEiwAaJfPpgZkN71CIL5TW1yKvErQC3V6vPpM5YcgKneMbjnbxnfQhdkCe5jeQBoC0VkQAvD_BwE
+   Status: 403
+   Erro: Status HTTP inválido
+
+8. [LINK] https://www.adobe.com/br/products/firefly.html
+   Status: N/A
+   Erro: Timeout
+
+9. [LINK] https://www.clipdrop.co/
+   Status: 403
+   Erro: Status HTTP inválido
+
+10. [LINK] https://openai.com/dall-e
+   Status: 403
+   Erro: Status HTTP inválido
+
+11. [LINK] https://ideogram.ai/
+   Status: 403
+   Erro: Status HTTP inválido
+
+12. [LINK] https://looka.com/?gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595jh_ax13R4oAW0Uysjo6XSiETwa8Erk9xtwXbhP5lC9JYb0PXLTL98aAmPQEALw_wcB
+   Status: 403
+   Erro: Status HTTP inválido
+
+13. [LINK] https://www.midjourney.com/
+   Status: 403
+   Erro: Status HTTP inválido
+
+14. [LINK] https://creator.nightcafe.studio
+   Status: 403
+   Erro: Status HTTP inválido
+
+15. [LINK] https://topai.tools/t/visualeyes
+   Status: 403
+   Erro: Status HTTP inválido
+
+16. [LINK] https://gamma.app
+   Status: 403
+   Erro: Status HTTP inválido
+
+17. [LINK] https://julius.ai/
+   Status: 403
+   Erro: Status HTTP inválido
+
+18. [LINK] https://www.kuki.ai
+   Status: 403
+   Erro: Status HTTP inválido
+
+19. [LINK] https://textcortex.com/pt
+   Status: 403
+   Erro: Status HTTP inválido
+
+20. [LINK] https://n8n.io
+   Status: 403
+   Erro: Status HTTP inválido
+
+21. [LINK] https://www.make.com/en/ai-automation
+   Status: 403
+   Erro: Status HTTP inválido
+
+22. [LINK] https://www.deepseek.com
+   Status: 403
+   Erro: Status HTTP inválido
+
+23. [LINK] https://claude.ai/
+   Status: 403
+   Erro: Status HTTP inválido
+
+24. [LINK] https://maricata.ai
+   Status: N/A
+   Erro: getaddrinfo ENOTFOUND maricata.ai
+
+25. [ICON] https://www.appengine.ai/uploads/images/profile/logo/Anyword-AI.png
+   Status: 404
+   Erro: Status HTTP inválido
+
+26. [ICON] https://mms-app.s3.amazonaws.com/wordpress/2021/06/15120226/marketmuse-share.png\n\n
+   Status: 403
+   Erro: Status HTTP inválido
+
+27. [ICON] https://pictory.ai/wp-content/uploads/2022/08/logo-new-font-TM.png
+   Status: 403
+   Erro: Status HTTP inválido
+
+28. [ICON] https://atai-main.b-cdn.net/tools/videogen-icon.png
+   Status: 403
+   Erro: Status HTTP inválido
+
+29. [ICON] https://mms.businesswire.com/media/20231127388431/en/1953851/5/WhatsApp_Image_2023-11-27_at_19.10.06_%281%29.jpg?download=1
+   Status: N/A
+   Erro: Timeout
+
+30. [ICON] https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F48de95c8-f7bd-4496-9349-53112687b920.jpeg&w=256&q=75
+   Status: 403
+   Erro: Status HTTP inválido
+
+31. [ICON] https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png
+   Status: 403
+   Erro: Status HTTP inválido
+
+32. [ICON] https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg
+   Status: 403
+   Erro: Status HTTP inválido
+
+33. [ICON] https://pbs.twimg.com/profile_images/1550467552496721922/De_tYfk__400x400.jpg
+   Status: 404
+   Erro: Status HTTP inválido
+
+34. [ICON] https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg
+   Status: 403
+   Erro: Status HTTP inválido
+
+35. [ICON] https://notebooklm.google/_/static/v4/notebook-icon.svg
+   Status: 404
+   Erro: Status HTTP inválido
+
+36. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6bq9Wd-HfTcIhV7xguw_MMCIyNbFXefJ5pKbA35m9R0XCDDyyFLoqlc6hwGsaybQ55Q&usqp=CAU
+   Status: 404
+   Erro: Status HTTP inválido
+
+37. [ICON] https://www.futurepedia.io/s3/optimized-image/2h3uGghOCKjClNIQ0XPo0s?format=auto&width=256
+   Status: 404
+   Erro: Status HTTP inválido
+
+38. [ICON] https://pbs.twimg.com/profile_images/1638842319104516097/TketN7Pm_200x200.jpg
+   Status: 404
+   Erro: Status HTTP inválido
+
+39. [ICON] https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png
+   Status: 403
+   Erro: Status HTTP inválido
+
+
+URLs FUNCIONANDO:
+----------------------------------------
+1. [LINK] https://audiopen.ai (Status: 200)
+2. [LINK] https://cloud.google.com/speech-to-text (Status: 200)
+3. [LINK] https://liner.ai/ (Status: 200)
+4. [LINK] https://www.maxai.me/ (Status: 200)
+5. [LINK] https://monica.im/ (Status: 200)
+6. [LINK] https://otter.ai (Status: 200)
+7. [LINK] https://poe.com/login (Status: 200)
+8. [LINK] https://www.replymind.com/ (Status: 200)
+9. [LINK] https://www.adcreative.ai/ (Status: 200)
+10. [LINK] https://www.anyword.com (Status: 200)
+11. [LINK] https://clarice.ai/ (Status: 200)
+12. [LINK] https://www.copysmith.ai (Status: 301)
+13. [LINK] https://www.jasper.ai (Status: 200)
+14. [LINK] https://www.marketmuse.com/ (Status: 200)
+15. [LINK] https://postwise.ai/ (Status: 200)
+16. [LINK] https://www.promptpal.net/br (Status: 301)
+17. [LINK] https://rytr.me/ (Status: 200)
+18. [LINK] https://storybird.ai (Status: 301)
+19. [LINK] https://blaze.today/aiblaze/ (Status: 200)
+20. [LINK] https://www.writesonic.com (Status: 301)
+21. [LINK] https://www.quillbot.com (Status: 301)
+22. [LINK] https://www.replika.ai (Status: 302)
+23. [LINK] https://www.blackbox.ai/ (Status: 200)
+24. [LINK] https://www.dora.run/ai (Status: 200)
+25. [LINK] https://durable.co/ai-website-builder-2?utm_term=durable%20ai&utm_campaign=gs_cpc_brand_maxconv_kwds_brand-search_tcpa&utm_source=adwords&utm_medium=ppc&hsa_acc=9085658195&hsa_cam=21796486688&hsa_grp=170103195833&hsa_ad=716642550623&hsa_src=g&hsa_tgt=kwd-1918368656787&hsa_kw=durable%20ai&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595gDzvtuaBGZUZfUWs0r0yqKDFOsl6E1QDkpPiHJQsld5ulKY5HhI7caArIdEALw_wcB (Status: 301)
+26. [LINK] https://www.framer.com/?via=architect99&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595jMXPNDBvmWqPtaH-5PMGAlT4Ursb_sJgjuyE8CEoRj2ec4XZx0xOgaAstOEALw_wcB (Status: 200)
+27. [LINK] https://wegic.ai/ (Status: 200)
+28. [LINK] https://predis.ai/ (Status: 200)
+29. [LINK] https://www.autopod.fm/ (Status: 200)
+30. [LINK] https://www.choppity.com/features/clip-anything (Status: 200)
+31. [LINK] https://www.heygen.com/ (Status: 200)
+32. [LINK] https://invideo.io/ (Status: 200)
+33. [LINK] https://www.jogg.ai/ (Status: 200)
+34. [LINK] https://klingai.com/ (Status: 302)
+35. [LINK] https://www.lumen5.com (Status: 301)
+36. [LINK] https://nullface.ai/ (Status: 200)
+37. [LINK] https://www.opus.pro/ (Status: 200)
+38. [LINK] https://runwayml.com/ (Status: 200)
+39. [LINK] https://www.storydoc.com (Status: 200)
+40. [LINK] https://suno.com/ (Status: 307)
+41. [LINK] https://www.synthesia.io/ (Status: 200)
+42. [LINK] https://videogen.io/?via=runway (Status: 200)
+43. [LINK] https://vidyo.ai/?via=duong-am&gad_source=1 (Status: 301)
+44. [LINK] https://acestudio.ai/ (Status: 200)
+45. [LINK] https://www.aiva.ai (Status: 200)
+46. [LINK] https://www.boomy.com (Status: 301)
+47. [LINK] https://replicastudios.com (Status: 301)
+48. [LINK] https://soundraw.io (Status: 200)
+49. [LINK] https://www.rev.ai/ (Status: 200)
+50. [LINK] https://www.udio.com/home (Status: 200)
+51. [LINK] https://krisp.ai (Status: 200)
+52. [LINK] https://app.pixverse.ai/onboard (Status: 200)
+53. [LINK] https://pika.art/login (Status: 200)
+54. [LINK] https://dreamfaceapp.com (Status: 200)
+55. [LINK] https://www.artbreeder.com (Status: 200)
+56. [LINK] https://www.beautiful.ai/ (Status: 200)
+57. [LINK] https://www.canva.com/magic-design/ (Status: 200)
+58. [LINK] https://civitai.com/ (Status: 200)
+59. [LINK] https://www.comfy.org/ (Status: 200)
+60. [LINK] https://www.copy.ai (Status: 200)
+61. [LINK] https://designs.ai/ (Status: 200)
+62. [LINK] https://www.wombo.art (Status: 301)
+63. [LINK] https://www.dreamstudio.ai/ (Status: 301)
+64. [LINK] https://www.dzine.ai/ (Status: 200)
+65. [LINK] https://www.usegalileo.ai/explore (Status: 200)
+66. [LINK] https://www.khroma.co/ (Status: 200)
+67. [LINK] https://magicstudio.com/pt/ (Status: 200)
+68. [LINK] https://www.myheritage.com/deep-nostalgia (Status: 200)
+69. [LINK] https://openart.ai/ (Status: 200)
+70. [LINK] https://phygital.plus/ (Status: 200)
+71. [LINK] https://piktochart.com/ (Status: 200)
+72. [LINK] https://www.recraft.ai/ (Status: 200)
+73. [LINK] https://www.visily.ai/ (Status: 200)
+74. [LINK] https://fooocus.one/playground (Status: 200)
+75. [LINK] https://illustroke.com/?aff=3MvnSS0H&gad_source=1&gclid=CjwKCAjw47i_BhBTEiwAaJfPpsaotAaDr_3YGcFkOZy2T-e5-e07LJZWVWdntTKrhr6cybJDDOB6TRoCLhwQAvD_BwE (Status: 200)
+76. [LINK] https://www.classpoint.io (Status: 200)
+77. [LINK] https://www.educationcopilot.com (Status: 301)
+78. [LINK] https://www.gradescope.com/ (Status: 200)
+79. [LINK] https://www.mendeley.com (Status: 200)
+80. [LINK] https://notebooklm.google/ (Status: 200)
+81. [LINK] https://www.photomath.com (Status: 200)
+82. [LINK] https://www.sendsteps.com (Status: 308)
+83. [LINK] https://www.slidesai.io (Status: 200)
+84. [LINK] https://socratic.org (Status: 302)
+85. [LINK] https://pt.symbolab.com/ (Status: 200)
+86. [LINK] https://hellothinkster.com/ (Status: 200)
+87. [LINK] https://www.wolframalpha.com (Status: 200)
+88. [LINK] https://yippity.io/ (Status: 200)
+89. [LINK] https://www.youlearn.ai/ (Status: 200)
+90. [LINK] https://tome.app (Status: 308)
+91. [LINK] https://www.brand24.com (Status: 302)
+92. [LINK] https://www.hubspot.com (Status: 200)
+93. [LINK] https://www.humata.ai/ (Status: 200)
+94. [LINK] https://www.surferseo.com (Status: 301)
+95. [LINK] https://www.chatbase.co/ (Status: 200)
+96. [LINK] https://www.bardeen.ai/ (Status: 200)
+97. [LINK] https://www.howler.media/ (Status: 200)
+98. [LINK] https://www.character.ai (Status: 301)
+99. [LINK] https://chatsonic.com (Status: 200)
+100. [LINK] https://www.clipto.com/pt/free-ai-transcribe-video-audio-to-text-in-second?gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595gIdlPeSr0Z0NSUemxSfTSjtGwcwtvAccJ0PwjEabkOtU6s-CUvE6MaAus5EALw_wcB (Status: 200)
+101. [LINK] https://deepgram.com/ (Status: 200)
+102. [LINK] https://www.descript.com/ (Status: 200)
+103. [LINK] https://elevenlabs.io/ (Status: 200)
+104. [LINK] https://www.feedhive.io (Status: 302)
+105. [LINK] https://getfluently.app/ (Status: 200)
+106. [LINK] https://www.ibm.com/br-pt/watson (Status: 200)
+107. [LINK] https://www.lately.ai (Status: 200)
+108. [LINK] https://www.theseventhsense.com (Status: 200)
+109. [LINK] https://www.timeular.com (Status: 301)
+110. [LINK] https://www.zapier.com (Status: 301)
+111. [LINK] https://dify.ai (Status: 200)
+112. [LINK] https://www.langflow.org (Status: 200)
+113. [LINK] https://supertools.therundown.ai/ (Status: 301)
+114. [LINK] https://chat.openai.com/ (Status: 308)
+115. [LINK] https://gemini.google.com/app?hl=pt-BR (Status: 200)
+116. [LINK] https://you.com/chat (Status: 301)
+117. [LINK] aistudio.google.com (Status: 302)
+118. [LINK] https://www.microsoft.com/copilot (Status: 301)
+119. [LINK] https://manus.im/ (Status: 200)
+120. [LINK] https://www.cursor.com/ (Status: 308)
+121. [ICON] https://audiopen.cdn.bubble.io/f1681586361226x441408577463338300/record.svg (Status: 200)
+122. [ICON] https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg (Status: 200)
+123. [ICON] https://liner.ai/image/logo2.svg (Status: 200)
+124. [ICON] https://cdn-1.webcatalog.io/catalog/listen-monster/listen-monster-icon-filled-256.png?v=1722863198701 (Status: 200)
+125. [ICON] https://store-images.s-microsoft.com/image/apps.32509.a11d5489-ba51-4ae7-8f9a-8d9bb1f75c51.626b396d-6ee9-4d42-a2fb-42d9f7d3fcb2.6cc3437e-de21-4347-a8e3-fe5d3eee1f64 (Status: 200)
+126. [ICON] https://play-lh.googleusercontent.com/imw4zSeaSUa-duDEAGXPjIrpj1boTkZJ3Xc9cr9y0ENJCXInGjWJMN4uFXSdJFxz4Lc=w240-h480-rw (Status: 200)
+127. [ICON] https://media.tekpon.com/2023/04/Otter-ai-Logo.webp (Status: 200)
+128. [ICON] https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png (Status: 200)
+129. [ICON] https://icons.iconarchive.com/icons/simpleicons-team/simple/256/poe-icon.png (Status: 200)
+130. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JDE933rFRZkxL6oCx5OW8fsPIhGPs7CU3g&s (Status: 200)
+131. [ICON] https://storage.googleapis.com/swipe-insight/content/images/sources_logos/adcreative-ai.webp (Status: 200)
+132. [ICON] https://media.licdn.com/dms/image/v2/C560BAQHEkBOwlMdkfQ/company-logo_200_200/company-logo_200_200/0/1630651474425/clarice_ai_logo?e=2147483647&v=beta&t=PzVZR3wqAeW5mujs3LrnUp11h_5XeUI3LdROG0vbajE (Status: 200)
+133. [ICON] https://storage.googleapis.com/hootsuite-assets/app-directory-logo.svg (Status: 200)
+134. [ICON] https://cdn.prod.website-files.com/60e5f2de011b86acebc30db7/665dd9c1792c38c09c7d74ec_Jasper%20Logo%20Lockup%20-%20Dark%20Khaki.svg (Status: 200)
+135. [ICON] https://cdn-1.webcatalog.io/catalog/postwise/postwise-icon-filled-256.png?v=1714782939491 (Status: 200)
+136. [ICON] https://cdn-1.webcatalog.io/catalog/promptpal/promptpal-icon-filled-256.webp?v=1714780825377 (Status: 200)
+137. [ICON] https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9f8df7c21faf1372a87be5c4c02dab65/rytr.png (Status: 200)
+138. [ICON] https://media.licdn.com/dms/image/v2/D560BAQFiS5WRh_9Jmw/company-logo_200_200/company-logo_200_200/0/1709783070169/storydotcom_logo?e=2147483647&v=beta&t=Zz5ANxqk1mEboJgs5hISo7KtoRCut8x_ck5xaimW5vU (Status: 200)
+139. [ICON] https://cdn-b.saashub.com/images/app/service_logos/171/e8yh0zwzrsuh/large.png?1638399904 (Status: 200)
+140. [ICON] https://cdn-1.webcatalog.io/catalog/writesonic/writesonic-icon-filled-256.png?v=1714776525059 (Status: 200)
+141. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4ccOo9DfZdcqGDpygRtkfKIIX9PRJrhQdQ&s (Status: 200)
+142. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-I3O6IPIt60b3fY2Qdx8eUgw2JgUla7uZoUmTDRf7FnhVxCo2a_gNteCMY5uYqkf02XI&usqp=CAU (Status: 200)
+143. [ICON] https://cdn-1.webcatalog.io/catalog/10web/10web-icon-filled-256.png?v=1714780677189 (Status: 200)
+144. [ICON] https://digino.org/wp-content/uploads/2023/12/blackbox-ai-logo.png (Status: 200)
+145. [ICON] https://www.dora.run/__dora__/account/assets/logo.3c206881.svg (Status: 200)
+146. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3rCyOUOcwzMQoslczKRo9rK3EAWr-pHZTQ&s (Status: 200)
+147. [ICON] https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512 (Status: 200)
+148. [ICON] https://cdn.wegic.ai/assets/email/logo.ico (Status: 200)
+149. [ICON] https://predis.ai/assets/img/predis_logo-min.webp (Status: 200)
+150. [ICON] https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/uosng4omsipht7cpvbi8 (Status: 200)
+151. [ICON] https://a.fsdn.com/allura/s/autopod/icon?ed846fd7ed12c988143f2dff146771e03c323a874078198e1bba94682ae91446?&w=148 (Status: 200)
+152. [ICON] https://media.licdn.com/dms/image/v2/D4E0BAQHzu2wTt7Sntg/company-logo_200_200/company-logo_200_200/0/1694865743372/choppity_logo?e=2147483647&v=beta&t=zTyYk5xl2CVZcvoMtlaAh7CxEOH0hjAyKMNwvyeCMh0 (Status: 200)
+153. [ICON] https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66e1a30a9a12f4c1d2bb3e9f_heygen-logotype.svg (Status: 200)
+154. [ICON] https://web-assets.invideo.io/common/prod/logos/invideo-ai-light.svg (Status: 200)
+155. [ICON] https://res.jogg.ai/sub-module/static-file/71e8c708db37 (Status: 200)
+156. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxiFAkwQLKBUq88VEYONKGs8FKST-e4R9Tw&s (Status: 200)
+157. [ICON] https://lumen5.com/learn/wp-content/uploads/2022/03/L5-logo-fullColor-rgb-Purple-Square.png (Status: 200)
+158. [ICON] https://nullface.ai/images/logo.png (Status: 200)
+159. [ICON] https://iaacademy.club/wp-content/uploads/2023/10/pXxCdS5q_400x400.jpg (Status: 200)
+160. [ICON] https://www.fahimai.com/wp-content/uploads/2024/06/Untitled-800-x-800-px-1.png (Status: 200)
+161. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiJay5shdsCyUhYXbApX9ZYUSzdcLQ5XlrSE70Sk1IJMzllwGf32XoOLzQQsBRLO7-Fg&usqp=CAU (Status: 200)
+162. [ICON] https://img.alicdn.com/imgextra/i3/2216045781517/O1CN01XjlCbk1N4plcY5u1y_!!2-item_pic.png (Status: 200)
+163. [ICON] https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae689ace95f5017dc17a0_Logo-main.svg (Status: 200)
+164. [ICON] https://stackviv.ai/wp-content/uploads/2023/11/Vidyo.png.webp (Status: 200)
+165. [ICON] https://pbs.twimg.com/profile_images/1547177547330355200/7J8zlbZB_400x400.png (Status: 200)
+166. [ICON] https://cdn-1.webcatalog.io/catalog/aiva/aiva-icon-filled-256.webp?v=1714780767514 (Status: 200)
+167. [ICON] https://miro.medium.com/v2/resize:fit:960/1*xpSGmtnpDtrWdOCxdRc_sQ.png (Status: 200)
+168. [ICON] https://www.fineshare.com/wp-content/uploads/2024/06/Replica-Studios.png (Status: 200)
+169. [ICON] https://cdn-1.webcatalog.io/catalog/soundraw/soundraw-icon-filled-256.png?v=17147781763466 (Status: 200)
+170. [ICON] https://play-lh.googleusercontent.com/KeE4TV1dcCZyd8iEYIYbOxBNPvdbMXs-VcJ-gNTA8En07mIVikts7dnT07PYk62dJ9er (Status: 200)
+171. [ICON] https://www.rev.ai/content/curve/img/revai/logo/logo-black-mobile.svg?v=wtjDEWXNn9Cu-Vki_-j4VS6yJ86McQSlRw59dj7Tiqc (Status: 200)
+172. [ICON] https://i.pinimg.com/736x/1c/65/6a/1c656a8d8342d6b9f7510df2c73b6399.jpg (Status: 200)
+173. [ICON] https://mma.prnewswire.com/media/1341668/krisp_Logo.jpg?p=facebook (Status: 200)
+174. [ICON] https://play-lh.googleusercontent.com/m8sS0x1-yScLCN_0mGtxWlRpp6rEd8z71c23RbeAD0KA3rS6GPpDp25VxQfjHRFAXJE (Status: 200)
+175. [ICON] https://play-lh.googleusercontent.com/GU6AsxNWaLW0jfHN3rQ_FS-bBmSQ3aL-mdW2r7hX_NWjzHjwwEPCNkXKenI24u1Ja9Q (Status: 200)
+176. [ICON] https://play-lh.googleusercontent.com/xJTpboo-si-s3vbzZ9j4rbt4YQPLBWZ8cR_B0DADpFMYTjLF6Z3zVuYcS7Jbxn9N1Jk (Status: 200)
+177. [ICON] https://firefly.adobe.com/imgs/firefly_appicon_mobile.2c11f10a.svg (Status: 200)
+178. [ICON] https://cdn-1.webcatalog.io/catalog/artbreeder/artbreeder-icon-filled-256.png?v=1714777026655 (Status: 200)
+179. [ICON] https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg (Status: 200)
+180. [ICON] https://cdn-1.webcatalog.io/catalog/civitai/civitai-icon-filled-256.png?v=1714779870591 (Status: 200)
+181. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlyB2qAHAPqIuZ7p86uAb8u21cz7aCnQlZA&s (Status: 200)
+182. [ICON] https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png?scale-down-to=1024 (Status: 200)
+183. [ICON] https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg (Status: 200)
+184. [ICON] https://assets.designs.ai/images/dsai-logo/default.webp (Status: 200)
+185. [ICON] https://s.cafebazaar.ir/images/icons/com.womboai.wombo-be6118be-0c53-4c29-a265-9462499bcf24_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize (Status: 200)
+186. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72Cix8-F7qUtmxh8G55QkXwPiAJ1jN5G4Nw&s (Status: 200)
+187. [ICON] https://miro.medium.com/v2/resize:fit:850/1*VgXJsbY74hrGd7umkTgn8Q.jpeg (Status: 200)
+188. [ICON] https://cdn.prod.website-files.com/64f2fa44b0818c378b17052e/65c4e3dcb13127af927fbd5d_20240208T0220-053c39af-648e-4f80-96d2-e9a2af8325a5.png (Status: 200)
+189. [ICON] https://digino.org/wp-content/uploads/2023/12/ideogram-ai-logo.png (Status: 200)
+190. [ICON] https://cdn-1.webcatalog.io/catalog/khroma/khroma-icon-filled-256.webp?v=1714781476902 (Status: 200)
+191. [ICON] https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg (Status: 200)
+192. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtH5bQuqO2_7hKIUZvBhaDGcYI5M9zxxhJhm8mr53ZSAKEyzqRcj7MWSyNZHRcxV6WME&usqp=CAU (Status: 200)
+193. [ICON] https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/08/MyHeritage_icon.jpg (Status: 200)
+194. [ICON] https://nightcafe.studio/cdn/shop/files/night-cafe-logo_978x.png?v=1614787028 (Status: 200)
+195. [ICON] https://cdn.prod.website-files.com/6600e1eab90de089c2d9c972/661592239b560b13e5156fa7_Logo_dark.svg (Status: 200)
+196. [ICON] https://play-lh.googleusercontent.com/FRzBTtZ8hApfBsi6yy2uMSzQcD9gslph0SUmGCX4w29DoELdf8zbNHX1BNb9-lno78E (Status: 200)
+197. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNf2gmbxg9SpQZl01n_P7eOh3TT0prKC0ouCwoyD3uEHA9Ox0IY9WtOxdNl8nTXMG0jA&usqp=CAU (Status: 200)
+198. [ICON] https://topai.tools/assets/img/favicon.png (Status: 200)
+199. [ICON] https://aitechfy.com/wp-content/uploads/2024/06/Fooocus-logo.png (Status: 200)
+200. [ICON] https://illustroke.com/assets/logo-2iCHAPR8.png (Status: 200)
+201. [ICON] https://www.classpoint.io/_next/static/media/textLogoColor.96f09a1c.svg (Status: 200)
+202. [ICON] https://cdn.sendsteps.com/website/Kopie_van_Microsoft_365_Copilot_1080_x_700_px_d18f6ab510.png (Status: 200)
+203. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwlw4QKZl1AvIKHAmrtIW0rPXbtbnDfMVgQ&s (Status: 200)
+204. [ICON] https://banner2.cleanpng.com/20190309/vuz/kisspng-mendeley-logo-computer-software-reference-manageme-1713902332467.webp (Status: 200)
+205. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnf84-d0KHysPJK_Ynjz1UBTchYCAj2llU-YWxC9mTdVZRCp0V (Status: 200)
+206. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvRL-jjD5C7zNLF5DI4iYIVEX88GJBKWwQZcXWFzcu7YpoEY_SYqIqHrkqHOPyFjUuRE&usqp=CAU (Status: 200)
+207. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhnmm_O21xFtA4BeMveRUgE_uz1r_HrPYhE-agFdeJqzJOpsudBqv1v_eD3BJpf6YZC0&usqp=CAU (Status: 200)
+208. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8I0a9z2quJUv5dT8YF1xmNEJ40Qh3kW_ou9EwdjJmb0NpRARDke4Hq_D1JovPPAoPcQ&usqp=CAU (Status: 200)
+209. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAaQwBFxVfr-2-8gyZERMs5mF_bjBUuGlmQ&s (Status: 200)
+210. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlT6NIFMvTVC20WQj9RviUrsFpGgQrNoUiHkk1OPfjYFQfmSe7FVQuJebsEsJgiqqX2I&usqp=CAU (Status: 200)
+211. [ICON] https://app.youlearn.ai/youlearn.png (Status: 200)
+212. [ICON] https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png (Status: 200)
+213. [ICON] https://res.cloudinary.com/apideck/image/upload/v1649374922/icons/tome-app.png (Status: 200)
+214. [ICON] https://play-lh.googleusercontent.com/w2LU8ethnOpquVcbJAVkikSTnX83IS5m5Js-9dOOOtC6CrGltm2-Puu4btu1azc_zyg (Status: 200)
+215. [ICON] https://cdn-icons-png.flaticon.com/256/5968/5968872.png (Status: 200)
+216. [ICON] https://pbs.twimg.com/profile_images/1703895347393699840/KFLcQs1M_400x400.jpg (Status: 200)
+217. [ICON] https://uploads.commoninja.com/searchengine/wordpress/surferseo.png (Status: 200)
+218. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOigG8Mpo3HcSaROczVY0W8MOnwKLbEVZvLLflSxEpNLgXLZLx4fUnkjPXQwdt35eDDc&usqp=CAU (Status: 200)
+219. [ICON] https://www.chatbase.co/images/chatbase-logo.svg (Status: 200)
+220. [ICON] https://avatars.githubusercontent.com/u/64928485?s=280&v=4 (Status: 200)
+221. [ICON] https://www.howler.media/static/media/logo-2.50dc56ef.svg (Status: 200)
+222. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpuSv9qsXWQ7tvN9xvBJIiOyxc30fzAKGDw&s (Status: 200)
+223. [ICON] https://www.clipto.com/favicon.ico (Status: 200)
+224. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_J3lQfLZCSZsrrfBUelLctJCd1rIRcBb3n5vy7LXdDZ0E7_uq5GF_xw8tOPJF8H93m20&usqp=CAU (Status: 200)
+225. [ICON] https://descript-website.vercel.app/images/descript-logo.svg (Status: 200)
+226. [ICON] https://play-lh.googleusercontent.com/Im726gXJYWu6Lw0M6BcPNV1BdlO7QVB1wQfMtEnsn1-J4e80WI7AEivVXDrK1ypsm0o=w240-h480-rw (Status: 200)
+227. [ICON] https://hypefury.com/wp-content/uploads/2023/04/Feedhive-logo-only-300x300.png (Status: 200)
+228. [ICON] https://framerusercontent.com/images/5TOWtySXFNj8PhxRoqLBYGCK6s.png (Status: 200)
+229. [ICON] https://www.ibm.com/favicon.ico (Status: 200)
+230. [ICON] https://images.squarespace-cdn.com/content/v1/5fd110ee514f2770efc95c70/b1921d3e-5e8e-4e5a-9826-ab8ef85bd51e/K+fav+resized.png (Status: 200)
+231. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6k5YtOBimqYqnHSPEzaXruGzfd99U9RdCy_xgIjyF6_5YXBup--gLGdfM5kO6fLq7so&usqp=CAU (Status: 200)
+232. [ICON] https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fe5ef8bf8d08d9ee9cf27eaf2fe7bb78/seventh-sense.jpeg (Status: 200)
+233. [ICON] https://lh3.googleusercontent.com/iay9HUXcZPRCt7rFEuVM9WBuwG13R5e7oe8_2zws4Js8j-Z0i1xXvuDLGmuE6KpKFCTBQ5YGfAPqQzuQ2SGKv3U2=s128-rj-sc0x00ffffff (Status: 200)
+234. [ICON] https://pipedream.com/s.v0/app_02h9wE/logo/orig (Status: 200)
+235. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6ZksjABBgxRBWulwOsbWbQS0zOzSc7WVQcYZG9HXEeSgXE-hl_axFf3K4jY1gjrR3a4&usqp=CAUU (Status: 200)
+236. [ICON] https://cdn-1.webcatalog.io/catalog/dify/dify-icon-filled-256.png?v=1720577821936 (Status: 200)
+237. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEd-6BLG9826XCSwnKRt6vdG7oNsWYSZAOHQ&s (Status: 200)
+238. [ICON] https://docs.langflow.org/img/langflow-logo-black.svg (Status: 200)
+239. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Q-rv08c_n7_govve45epE0llVXcJCsW6yA&s (Status: 200)
+240. [ICON] https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw (Status: 200)
+241. [ICON] https://assets.super.so/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/uploads/favicon/f4df662c-f46b-41d1-8e0c-9d0ef23e6a93.png (Status: 200)
+242. [ICON] https://claude.ai/images/claude_app_icon.png (Status: 200)
+243. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s (Status: 200)
+244. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSosl2tXbr48UhYwDHeao5ISoU0zZ4HQmTB1hVtrpi5OnPjhRsruNwUfbO3iCHQiDF36E&usqp=CAU (Status: 200)
+245. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67AeU1RDy_8yCsc-sVYGYC9Mf34_m9LTOXQ&s (Status: 200)
+246. [ICON] https://timelines.ai/wp-content/uploads/2025/03/Google-AI.png (Status: 200)
+247. [ICON] https://store-images.s-microsoft.com/image/apps.22196.13623743226081137.44717f35-32c5-4d9e-ab80-390d1fdf3f60.f47480f4-1941-4044-8028-2e94660969bf (Status: 200)
+248. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0loQ0FoBGusYJowGbDVCRs4OQj8bUWlQt7g&s (Status: 200)
+249. [ICON] https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAoqhlxXf-36CbEskbnnPQ6S6Ra92Mx4Rjg&s (Status: 200)
