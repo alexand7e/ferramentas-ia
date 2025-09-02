@@ -3849,7 +3849,7 @@ export const aiToolsData: AITool[] = [
       ],
       "tags": [
         "Editor de Código",
-        "IA para Programação",
+        "Web e Desenvolvimento",
         "Produtividade Dev"
       ],
       "languages": [
@@ -3859,7 +3859,497 @@ export const aiToolsData: AITool[] = [
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAoqhlxXf-36CbEskbnnPQ6S6Ra92Mx4Rjg&s",
       "createdAt": "2025-09-01",
       "updatedAt": "2025-09-01"
-    }
+    },
+    {
+    "id": "145",
+    "name": "Lovable",
+    "description": "Plataforma low-code para construção de aplicações web com interface visual e componentes pré-construídos.",
+    "category": "Web e Desenvolvimento",
+    "license": "Pago (teste gratuito)",
+    "usability": 4,
+    "features": [
+      "Interface visual para construção de aplicações",
+      "Componentes pré-construídos",
+      "Integração com diversas APIs",
+      "Publicação direta na web"
+    ],
+    "tags": [
+      "Low-Code",
+      "Desenvolvimento Web",
+      "Produtividade Dev"
+    ],
+    "languages": [
+      "EN"
+    ],
+    "link": "https://lovable.dev/",
+    "icon": "",
+    "createdAt": "2025-09-02",
+    "updatedAt": "2025-09-01"
+  },
+{
+  "id": "146",
+  "name": "FlutterFlow",
+  "description": "Plataforma low-code para construção de aplicativos Flutter usando uma interface visual de arrastar e soltar.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Interface visual de arrastar e soltar",
+    "Geração de código Flutter",
+    "Integração com Firebase",
+    "Publicação direta nas lojas de aplicativos"
+  ],
+  "tags": [
+    "Low-Code",
+    "Desenvolvimento Mobile",
+    "Flutter",
+    "Produtividade Dev"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://flutterflow.io/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "147",
+  "name": "Bubble",
+  "description": "Plataforma no-code para construção de aplicações web sem escrever código, usando uma interface visual.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Interface visual para construção de aplicações",
+    "Banco de dados integrado",
+    "Fluxos de trabalho visuais",
+    "Integração com APIs externas",
+    "Hospedagem inclusa"
+  ],
+  "tags": [
+    "No-Code",
+    "Desenvolvimento Web",
+    "Produtividade Dev"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://bubble.io/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "148",
+  "name": "QwenCoder",
+  "description": "Assistente de codificação baseado no modelo de linguagem Qwen da Alibaba, oferecendo geração e conclusão de código.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Geração de código baseada em IA",
+    "Completamento automático de código",
+    "Tradução de linguagem natural para código",
+    "Suporte para múltiplas linguagens de programação"
+  ],
+  "tags": [
+    "Web e Desenvolvimento",
+    "Assistente de Código",
+    "Produtividade Dev"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://qwenlm.github.io/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+}, 
+{
+  "id": "149",
+  "name": "Windsurf",
+  "description": "Ambiente de desenvolvimento integrado com IA, oferecendo completamento de código, refatoração e outros recursos de desenvolvimento assistido por IA.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Completamento de código baseado em IA",
+    "Refatoração inteligente",
+    "Análise de código",
+    "Depuração assistida",
+    "Integração com ferramentas populares"
+  ],
+  "tags": [
+    "IDE",
+    "Web e Desenvolvimento",
+    "Produtividade Dev"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://windsurf.ai/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "150",
+  "name": "GLM 4.5",
+  "description": "Modelo de linguagem grande desenvolvido pela Zhipu AI, utilizado para várias tarefas de IA incluindo assistência de codificação.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Geração de código baseada em IA",
+    "Completamento automático de código",
+    "Tradução de linguagem natural para código",
+    "Suporte para múltiplas linguagens de programação"
+  ],
+  "tags": [
+    "Web e Desenvolvimento",
+    "Assistente de Código",
+    "Modelo de Linguagem",
+    "Zhipu AI"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://chatglm.cn/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "151",
+  "name": "DeepCoder",
+  "description": "Ferramenta ou projeto de pesquisa que utiliza aprendizado profundo para geração ou compreensão de código.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 3,
+  "features": [
+    "Geração de código usando aprendizado profundo",
+    "Compreensão de código",
+    "Tradução entre linguagens de programação"
+  ],
+  "tags": [
+    "Web e Desenvolvimento",
+    "Aprendizado Profundo",
+    "Pesquisa"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+}, 
+{
+  "id": "152",
+  "name": "VibeCoding",
+  "description": "Plataforma de aprendizado de programação com foco em imersão e prática, oferecendo cursos interativos e projetos reais.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Cursos interativos de programação",
+    "Projetos práticos com feedback",
+    "Comunidade de aprendizes",
+    "Trilhas de aprendizagem personalizadas",
+    "Certificação de conclusão"
+  ],
+  "tags": [
+    "Educação",
+    "Programação",
+    "Aprendizagem Online"
+  ],
+  "languages": [
+    "EN",
+    "ES",
+    "PT"
+  ],
+  "link": "https://vibecoding.com/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "153",
+  "name": "Boltz",
+  "description": "Plataforma de automação de marketing digital com foco em integração de ferramentas e otimização de campanhas.",
+  "category": "Escrita e Comunicação",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Automação de campanhas de marketing",
+    "Integração com redes sociais",
+    "Análise de performance em tempo real",
+    "Segmentação avançada de público",
+    "Relatórios personalizados"
+  ],
+  "tags": [
+    "Marketing Digital",
+    "Automação",
+    "Análise de Dados"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://boltz.ai/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "154",
+  "name": "Trae",
+  "description": "Ferramenta de rastreamento de projetos e gestão de tarefas com interface minimalista e foco em produtividade.",
+  "category": "Automação e Agentes",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Gestão visual de projetos",
+    "Rastreamento de tempo",
+    "Colaboração em equipe",
+    "Integração com calendários",
+    "Relatórios de produtividade"
+  ],
+  "tags": [
+    "Gestão de Projetos",
+    "Produtividade",
+    "Colaboração"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://trae.app/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "155",
+  "name": "Kiro",
+  "description": "Plataforma de gestão financeira para freelancers e pequenas empresas, com foco em controle de despesas e faturamento.",
+  "category": "Análise",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Controle de despesas e receitas",
+    "Emissão de faturas",
+    "Relatórios financeiros",
+    "Integração com contas bancárias",
+    "Gestão de impostos"
+  ],
+  "tags": [
+    "Finanças",
+    "Gestão de Negócios",
+    "Freelancer"
+  ],
+  "languages": [
+    "EN",
+    "ES",
+    "PT"
+  ],
+  "link": "https://kiro.money/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "156",
+  "name": "Abacus AI",
+  "description": "Plataforma de inteligência artificial empresarial que oferece soluções de machine learning sem necessidade de codificação.",
+  "category": "Automação e Agentes",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Modelos de ML pré-construídos",
+    "AutoML para treinamento de modelos",
+    "Deploy de modelos com um clique",
+    "Monitoramento de performance",
+    "Integração com dados empresariais"
+  ],
+  "tags": [
+    "Machine Learning",
+    "IA Empresarial",
+    "AutoML"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://abacus.ai/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "157",
+  "name": "Qorder",
+  "description": "Sistema de gestão de pedidos para restaurantes e serviços de entrega, com foco em otimização de operações.",
+  "category": "Automação e Agentes",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Gestão de pedidos em tempo real",
+    "Integração com plataformas de entrega",
+    "Controle de estoque",
+    "Análise de vendas",
+    "Gestão de clientes"
+  ],
+  "tags": [
+    "Restaurante",
+    "Gestão de Pedidos",
+    "Entrega"
+  ],
+  "languages": [
+    "EN",
+    "ES"
+  ],
+  "link": "https://qorder.app/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "158",
+  "name": "Zoer",
+  "description": "Plataforma de recrutamento e gestão de talentos com foco em análise de candidatos e otimização de processos seletivos.",
+  "category": "Automação e Agentes",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Análise de currículos com IA",
+    "Gestão de vagas e candidatos",
+    "Entrevistas automatizadas",
+    "Avaliação de competências",
+    "Relatórios de recrutamento"
+  ],
+  "tags": [
+    "Recrutamento",
+    "RH",
+    "IA para Recursos Humanos"
+  ],
+  "languages": [
+    "EN",
+    "ES",
+    "FR"
+  ],
+  "link": "https://zoer.ai/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "159",
+  "name": "String Alpha",
+  "description": "Ferramenta de análise e otimização de código para melhorar performance e identificar vulnerabilidades.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Análise estática de código",
+    "Identificação de vulnerabilidades",
+    "Otimização de performance",
+    "Suporte para múltiplas linguagens",
+    "Integração com CI/CD"
+  ],
+  "tags": [
+    "Segurança de Código",
+    "Otimização",
+    "Análise Estática"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://stringalpha.com/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "160",
+  "name": "Buildership",
+  "description": "Plataforma de construção de aplicações empresariais com foco em integração de sistemas e automação de processos.",
+  "category": "Web e Desenvolvimento",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Construção visual de aplicações",
+    "Integração com sistemas empresariais",
+    "Automação de processos",
+    "Gestão de dados",
+    "Segurança e conformidade"
+  ],
+  "tags": [
+    "Low-Code",
+    "Desenvolvimento Empresarial",
+    "Automação"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://buildership.com/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "161",
+  "name": "Google Opal",
+  "description": "Projeto experimental do Google focado em análise de dados e visualização de informações em tempo real.",
+  "category": "Análise",
+  "license": "Gratuito",
+  "usability": 3,
+  "features": [
+    "Visualização de dados em tempo real",
+    "Análise interativa",
+    "Integração com serviços Google",
+    "Dashboards personalizáveis",
+    "Colaboração em equipe"
+  ],
+  "tags": [
+    "Análise de Dados",
+    "Visualização",
+    "Google"
+  ],
+  "languages": [
+    "EN"
+  ],
+  "link": "https://opal.googlelabs.com/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+},
+{
+  "id": "162",
+  "name": "Sim AI",
+  "description": "Plataforma de simulação e treinamento com inteligência artificial para desenvolvimento de habilidades profissionais.",
+  "category": "Educação",
+  "license": "Pago (teste gratuito)",
+  "usability": 4,
+  "features": [
+    "Simulações realistas com IA",
+    "Feedback personalizado",
+    "Treinamento adaptativo",
+    "Análise de desempenho",
+    "Certificação de habilidades"
+  ],
+  "tags": [
+    "Simulação",
+    "Treinamento",
+    "IA Educacional"
+  ],
+  "languages": [
+    "EN",
+    "ES"
+  ],
+  "link": "https://simai.training/",
+  "icon": "",
+  "createdAt": "2025-09-01",
+  "updatedAt": "2025-09-01"
+}
   ];
 
 export const getToolsByCategory = (category: string) => {
