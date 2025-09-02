@@ -274,7 +274,7 @@ export const aiToolsData: AITool[] = [
     "description": "IA para criação de copy e conteúdo de marketing",
     "link": "https://www.anyword.com",
     "icon": "https://aial-prod.s3.eu-central-1.amazonaws.com/agents/anyword.webp",
-    "category": "Escrita e Comunicação",
+    "category": "Marketing",
     "tags": [
       "Conteúdo",
       "Marketing",
@@ -3942,16 +3942,8 @@ export const aiToolsData: AITool[] = [
     "id": "150",
     "name": "GLM 4.5",
     "description": "Modelo de linguagem grande desenvolvido pela Zhipu AI, utilizado para várias tarefas de IA incluindo assistência de codificação.",
-    "link": "https://chat.z.ai/",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQtM8BJDfLEhWW3D9VfgYB_f8ayfh9816Nw&s",
     "category": "Web e Desenvolvimento",
-    "tags": [
-      "Web e Desenvolvimento",
-      "Assistente de Código",
-      "Modelo de Linguagem",
-      "Zhipu AI"
-    ],
-    "license": "Gratuito",
+    "license": "Pago (teste gratuito)",
     "usability": 4,
     "features": [
       "Geração de código baseada em IA",
@@ -3959,9 +3951,19 @@ export const aiToolsData: AITool[] = [
       "Tradução de linguagem natural para código",
       "Suporte para múltiplas linguagens de programação"
     ],
+    "tags": [
+      "Web e Desenvolvimento",
+      "Assistente de Código",
+      "Modelo de Linguagem",
+      "Zhipu AI"
+    ],
     "languages": [
       "EN"
-    ]
+    ],
+    "link": "https://chatglm.cn/",
+    "icon": "",
+    "createdAt": "2025-09-01",
+    "updatedAt": "2025-09-01"
   },
   {
     "id": "151",
@@ -4074,17 +4076,9 @@ export const aiToolsData: AITool[] = [
   {
     "id": "155",
     "name": "Kiro",
-    "description": "O kiro.dev é um site que oferece uma ampla variedade de ferramentas online para desenvolvedores. Ele foi projetado para ajudar os programadores em suas tarefas diárias, como converter dados, formatar código e realizar cálculos complexos. ",
-    "link": "https://kiro.dev/",
-    "icon": "https://kiro.dev/icon.svg?fe599162bb293ea0",
-    "category": "Web e Desenvolvimento",
-    "tags": [
-      "Ferramentas para desenvolvedores",
-      "Vibe Coding",
-      "Conversores de dados",
-      "Formatadores de código"
-    ],
-    "license": "Gratuito e Pago",
+    "description": "Plataforma de gestão financeira para freelancers e pequenas empresas, com foco em controle de despesas e faturamento.",
+    "category": "Análise",
+    "license": "Pago (teste gratuito)",
     "usability": 4,
     "features": [
       "Controle de despesas e receitas",
@@ -4093,25 +4087,27 @@ export const aiToolsData: AITool[] = [
       "Integração com contas bancárias",
       "Gestão de impostos"
     ],
+    "tags": [
+      "Finanças",
+      "Gestão de Negócios",
+      "Freelancer"
+    ],
     "languages": [
       "EN",
       "ES",
       "PT"
-    ]
+    ],
+    "link": "https://kiro.money/",
+    "icon": "",
+    "createdAt": "2025-09-01",
+    "updatedAt": "2025-09-01"
   },
   {
     "id": "156",
     "name": "Abacus AI",
     "description": "Plataforma de inteligência artificial empresarial que oferece soluções de machine learning sem necessidade de codificação.",
-    "link": "https://abacus.ai/",
-    "icon": "https://avatars.githubusercontent.com/u/68347282?s=280&v=4",
-    "category": "Web e Desenvolvimento",
-    "tags": [
-      "Machine Learning",
-      "IA Empresarial",
-      "AutoML"
-    ],
-    "license": "Pago",
+    "category": "Automação e Agentes",
+    "license": "Pago (teste gratuito)",
     "usability": 4,
     "features": [
       "Modelos de ML pré-construídos",
@@ -4120,9 +4116,18 @@ export const aiToolsData: AITool[] = [
       "Monitoramento de performance",
       "Integração com dados empresariais"
     ],
+    "tags": [
+      "Machine Learning",
+      "IA Empresarial",
+      "AutoML"
+    ],
     "languages": [
       "EN"
-    ]
+    ],
+    "link": "https://abacus.ai/",
+    "icon": "",
+    "createdAt": "2025-09-01",
+    "updatedAt": "2025-09-01"
   },
   {
     "id": "157",

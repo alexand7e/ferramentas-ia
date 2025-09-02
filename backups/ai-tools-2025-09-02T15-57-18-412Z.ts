@@ -4105,7 +4105,7 @@ export const aiToolsData: AITool[] = [
     "description": "Plataforma de inteligência artificial empresarial que oferece soluções de machine learning sem necessidade de codificação.",
     "link": "https://abacus.ai/",
     "icon": "https://avatars.githubusercontent.com/u/68347282?s=280&v=4",
-    "category": "Web e Desenvolvimento",
+    "category": "Código e Desenvolvimento",
     "tags": [
       "Machine Learning",
       "IA Empresarial",

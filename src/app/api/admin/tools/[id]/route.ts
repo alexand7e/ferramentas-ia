@@ -57,14 +57,14 @@ export const aiToolsData: AITool[] = ${JSON.stringify(tools, null, 2)};
 }
 
 // PUT - Atualizar ferramenta existente
-export async function PUT(request: NextRequest, { params }: { params: { id: string } }) {
+export async function PUT(request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   if (!isAuthenticated(request)) {
     return NextResponse.json({ error: 'Não autorizado' }, { status: 401 });
   }
   
   try {
     const updatedTool: AITool = await request.json();
-    const toolId = params.id;
+    const { id: toolId } = await params;
     
     if (!toolId) {
       return NextResponse.json({ error: 'ID da ferramenta é obrigatório' }, { status: 400 });
@@ -93,13 +93,13 @@ export async function PUT(request: NextRequest, { params }: { params: { id: stri
 }
 
 // DELETE - Remover ferramenta
-export async function DELETE(request: NextRequest, { params }: { params: { id: string } }) {
+export async function DELETE(request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   if (!isAuthenticated(request)) {
     return NextResponse.json({ error: 'Não autorizado' }, { status: 401 });
   }
   
   try {
-    const toolId = params.id;
+    const { id: toolId } = await params;
     
     if (!toolId) {
       return NextResponse.json({ error: 'ID da ferramenta é obrigatório' }, { status: 400 });

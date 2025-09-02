@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { AITool } from '@/types/ai-tool';
+import { AITool, ToolCategory, LicenseType, Language } from '@/types/ai-tool';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
@@ -32,19 +32,31 @@ interface ValidationResult {
   error?: string;
 }
 
-const CATEGORIES = [
-  'Texto e Escrita',
-  'Imagem e Design',
-  'Áudio e Música',
-  'Vídeo',
-  'Código e Desenvolvimento',
-  'Produtividade',
-  'Análise de Dados',
-  'Chatbots e Assistentes',
-  'Automação',
-  'Pesquisa e Educação',
-  'Marketing',
-  'Outros'
+const CATEGORIES: ToolCategory[] = [
+  "Escrita e Comunicação",
+  "Web e Desenvolvimento",
+  "Vídeo e Voz",
+  "Design e Mídia Visual",
+  "Educação",
+  "Análise",
+  "Automação e Agentes",
+  "Multimodal"
+];
+
+const LICENSE_TYPES: LicenseType[] = [
+  "Gratuito",
+  "Gratuito e Pago",
+  "Pago",
+  "Pago (teste gratuito)"
+];
+
+const LANGUAGES: Language[] = [
+  "PT",
+  "EN",
+  "ES",
+  "FR",
+  "DE",
+  "Multilingue"
 ];
 
 export default function ToolForm({ tool, onSave, onCancel, isLoading = false }: ToolFormProps) {
@@ -377,10 +389,9 @@ export default function ToolForm({ tool, onSave, onCancel, isLoading = false }: 
                 <SelectValue />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="Gratuito">Gratuito</SelectItem>
-                <SelectItem value="Freemium">Freemium</SelectItem>
-                <SelectItem value="Pago">Pago</SelectItem>
-                <SelectItem value="Assinatura">Assinatura</SelectItem>
+                {LICENSE_TYPES.map((license) => (
+                  <SelectItem key={license} value={license}>{license}</SelectItem>
+                ))}
               </SelectContent>
             </Select>
           </div>

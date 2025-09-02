@@ -4103,15 +4103,8 @@ export const aiToolsData: AITool[] = [
     "id": "156",
     "name": "Abacus AI",
     "description": "Plataforma de inteligência artificial empresarial que oferece soluções de machine learning sem necessidade de codificação.",
-    "link": "https://abacus.ai/",
-    "icon": "https://avatars.githubusercontent.com/u/68347282?s=280&v=4",
-    "category": "Web e Desenvolvimento",
-    "tags": [
-      "Machine Learning",
-      "IA Empresarial",
-      "AutoML"
-    ],
-    "license": "Pago",
+    "category": "Automação e Agentes",
+    "license": "Pago (teste gratuito)",
     "usability": 4,
     "features": [
       "Modelos de ML pré-construídos",
@@ -4120,9 +4113,18 @@ export const aiToolsData: AITool[] = [
       "Monitoramento de performance",
       "Integração com dados empresariais"
     ],
+    "tags": [
+      "Machine Learning",
+      "IA Empresarial",
+      "AutoML"
+    ],
     "languages": [
       "EN"
-    ]
+    ],
+    "link": "https://abacus.ai/",
+    "icon": "",
+    "createdAt": "2025-09-01",
+    "updatedAt": "2025-09-01"
   },
   {
     "id": "157",

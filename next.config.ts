@@ -36,9 +36,6 @@ const nextConfig: NextConfig = {
   ...(isStaticExport && {
     output: 'export',
     distDir: 'out',
-    experimental: {
-      missingSuspenseWithCSRBailout: false,
-    },
   }),
 };
 
