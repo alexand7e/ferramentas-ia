@@ -1,5 +1,7 @@
 import type { NextConfig } from "next";
 
+const isStaticExport = process.env.NEXT_PUBLIC_STATIC_EXPORT === 'true';
+
 const nextConfig: NextConfig = {
   /* config options here */
   trailingSlash: true,
@@ -31,6 +33,13 @@ const nextConfig: NextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  ...(isStaticExport && {
+    output: 'export',
+    distDir: 'out',
+    experimental: {
+      missingSuspenseWithCSRBailout: false,
+    },
+  }),
 };
 
 export default nextConfig;
