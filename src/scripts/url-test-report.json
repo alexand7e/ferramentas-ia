@@ -1,0 +1,2443 @@
+{
+  "metadata": {
+    "generatedAt": "2025-09-14T13:24:40.465Z",
+    "totalUrls": 304,
+    "successfulUrls": 258,
+    "failedUrls": 46,
+    "successRate": "84.9"
+  },
+  "results": [
+    {
+      "url": "https://audiopen.ai",
+      "normalizedUrl": "https://audiopen.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://cloud.google.com/speech-to-text",
+      "normalizedUrl": "https://cloud.google.com/speech-to-text",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://liner.ai/",
+      "normalizedUrl": "https://liner.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.maxai.me/",
+      "normalizedUrl": "https://www.maxai.me/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://monica.im/",
+      "normalizedUrl": "https://monica.im/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://otter.ai",
+      "normalizedUrl": "https://otter.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.perplexity.ai/",
+      "normalizedUrl": "https://www.perplexity.ai/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://poe.com/login",
+      "normalizedUrl": "https://poe.com/login",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.replymind.com/",
+      "normalizedUrl": "https://www.replymind.com/",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.adcreative.ai/",
+      "normalizedUrl": "https://www.adcreative.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.anyword.com",
+      "normalizedUrl": "https://www.anyword.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://clarice.ai/",
+      "normalizedUrl": "https://clarice.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.copysmith.ai",
+      "normalizedUrl": "https://www.copysmith.ai",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.jasper.ai",
+      "normalizedUrl": "https://www.jasper.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.marketmuse.com/",
+      "normalizedUrl": "https://www.marketmuse.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://postwise.ai/",
+      "normalizedUrl": "https://postwise.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.promptpal.net/br",
+      "normalizedUrl": "https://www.promptpal.net/br",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://rytr.me/",
+      "normalizedUrl": "https://rytr.me/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://storybird.ai",
+      "normalizedUrl": "https://storybird.ai",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://blaze.today/aiblaze/",
+      "normalizedUrl": "https://blaze.today/aiblaze/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.writesonic.com",
+      "normalizedUrl": "https://www.writesonic.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.quillbot.com",
+      "normalizedUrl": "https://www.quillbot.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.replika.ai",
+      "normalizedUrl": "https://www.replika.ai",
+      "status": 302,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://10web.io/ai-website-builder/",
+      "normalizedUrl": "https://10web.io/ai-website-builder/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.blackbox.ai/",
+      "normalizedUrl": "https://www.blackbox.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.dora.run/ai",
+      "normalizedUrl": "https://www.dora.run/ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://durable.co/ai-website-builder-2?utm_term=durable%20ai&utm_campaign=gs_cpc_brand_maxconv_kwds_brand-search_tcpa&utm_source=adwords&utm_medium=ppc&hsa_acc=9085658195&hsa_cam=21796486688&hsa_grp=170103195833&hsa_ad=716642550623&hsa_src=g&hsa_tgt=kwd-1918368656787&hsa_kw=durable%20ai&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595gDzvtuaBGZUZfUWs0r0yqKDFOsl6E1QDkpPiHJQsld5ulKY5HhI7caArIdEALw_wcB",
+      "normalizedUrl": "https://durable.co/ai-website-builder-2?utm_term=durable%20ai&utm_campaign=gs_cpc_brand_maxconv_kwds_brand-search_tcpa&utm_source=adwords&utm_medium=ppc&hsa_acc=9085658195&hsa_cam=21796486688&hsa_grp=170103195833&hsa_ad=716642550623&hsa_src=g&hsa_tgt=kwd-1918368656787&hsa_kw=durable%20ai&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595gDzvtuaBGZUZfUWs0r0yqKDFOsl6E1QDkpPiHJQsld5ulKY5HhI7caArIdEALw_wcB",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.framer.com/?via=architect99&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595jMXPNDBvmWqPtaH-5PMGAlT4Ursb_sJgjuyE8CEoRj2ec4XZx0xOgaAstOEALw_wcB",
+      "normalizedUrl": "https://www.framer.com/?via=architect99&gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595jMXPNDBvmWqPtaH-5PMGAlT4Ursb_sJgjuyE8CEoRj2ec4XZx0xOgaAstOEALw_wcB",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://wegic.ai/",
+      "normalizedUrl": "https://wegic.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://predis.ai/",
+      "normalizedUrl": "https://predis.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://uizard.io/",
+      "normalizedUrl": "https://uizard.io/",
+      "status": 503,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.autopod.fm/",
+      "normalizedUrl": "https://www.autopod.fm/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.choppity.com/features/clip-anything",
+      "normalizedUrl": "https://www.choppity.com/features/clip-anything",
+      "status": 404,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.heygen.com/",
+      "normalizedUrl": "https://www.heygen.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://invideo.io/",
+      "normalizedUrl": "https://invideo.io/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.jogg.ai/",
+      "normalizedUrl": "https://www.jogg.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://klingai.com/",
+      "normalizedUrl": "https://klingai.com/",
+      "status": 302,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.lumen5.com",
+      "normalizedUrl": "https://www.lumen5.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://nullface.ai/",
+      "normalizedUrl": "https://nullface.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.opus.pro/",
+      "normalizedUrl": "https://www.opus.pro/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://pictory.ai/home2a?el=2000&htrafficsource=pictoryblog",
+      "normalizedUrl": "https://pictory.ai/home2a?el=2000&htrafficsource=pictoryblog",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://runwayml.com/",
+      "normalizedUrl": "https://runwayml.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.storydoc.com",
+      "normalizedUrl": "https://www.storydoc.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://suno.com/",
+      "normalizedUrl": "https://suno.com/",
+      "status": 307,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.synthesia.io/",
+      "normalizedUrl": "https://www.synthesia.io/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://videogen.io/?via=runway",
+      "normalizedUrl": "https://videogen.io/?via=runway",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://vidyo.ai/?via=duong-am&gad_source=1",
+      "normalizedUrl": "https://vidyo.ai/?via=duong-am&gad_source=1",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://acestudio.ai/",
+      "normalizedUrl": "https://acestudio.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.aiva.ai",
+      "normalizedUrl": "https://www.aiva.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.boomy.com",
+      "normalizedUrl": "https://www.boomy.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://replicastudios.com",
+      "normalizedUrl": "https://replicastudios.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://soundraw.io",
+      "normalizedUrl": "https://soundraw.io",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.speechy.com/",
+      "normalizedUrl": "https://www.speechy.com/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.rev.ai/",
+      "normalizedUrl": "https://www.rev.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.udio.com/home",
+      "normalizedUrl": "https://www.udio.com/home",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://krisp.ai",
+      "normalizedUrl": "https://krisp.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://hailuoai.video/?gad_source=1&gclid=CjwKCAjw47i_BhBTEiwAaJfPpgZkN71CIL5TW1yKvErQC3V6vPpM5YcgKneMbjnbxnfQhdkCe5jeQBoC0VkQAvD_BwE",
+      "normalizedUrl": "https://hailuoai.video/?gad_source=1&gclid=CjwKCAjw47i_BhBTEiwAaJfPpgZkN71CIL5TW1yKvErQC3V6vPpM5YcgKneMbjnbxnfQhdkCe5jeQBoC0VkQAvD_BwE",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://pika.art/login",
+      "normalizedUrl": "https://pika.art/login",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://dreamfaceapp.com",
+      "normalizedUrl": "https://dreamfaceapp.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.adobe.com/br/products/firefly.html",
+      "normalizedUrl": "https://www.adobe.com/br/products/firefly.html",
+      "status": null,
+      "success": false,
+      "error": "Timeout",
+      "type": "link"
+    },
+    {
+      "url": "https://www.artbreeder.com",
+      "normalizedUrl": "https://www.artbreeder.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.beautiful.ai/",
+      "normalizedUrl": "https://www.beautiful.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.canva.com/magic-design/",
+      "normalizedUrl": "https://www.canva.com/magic-design/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://civitai.com/",
+      "normalizedUrl": "https://civitai.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.clipdrop.co/",
+      "normalizedUrl": "https://www.clipdrop.co/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.comfy.org/",
+      "normalizedUrl": "https://www.comfy.org/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.copy.ai",
+      "normalizedUrl": "https://www.copy.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://openai.com/dall-e",
+      "normalizedUrl": "https://openai.com/dall-e",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://designs.ai/",
+      "normalizedUrl": "https://designs.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.wombo.art",
+      "normalizedUrl": "https://www.wombo.art",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.dreamstudio.ai/",
+      "normalizedUrl": "https://www.dreamstudio.ai/",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.dzine.ai/",
+      "normalizedUrl": "https://www.dzine.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.usegalileo.ai/explore",
+      "normalizedUrl": "https://www.usegalileo.ai/explore",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://ideogram.ai/",
+      "normalizedUrl": "https://ideogram.ai/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.khroma.co/",
+      "normalizedUrl": "https://www.khroma.co/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://looka.com/?gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595jh_ax13R4oAW0Uysjo6XSiETwa8Erk9xtwXbhP5lC9JYb0PXLTL98aAmPQEALw_wcB",
+      "normalizedUrl": "https://looka.com/?gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595jh_ax13R4oAW0Uysjo6XSiETwa8Erk9xtwXbhP5lC9JYb0PXLTL98aAmPQEALw_wcB",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://magicstudio.com/pt/",
+      "normalizedUrl": "https://magicstudio.com/pt/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.midjourney.com/",
+      "normalizedUrl": "https://www.midjourney.com/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.myheritage.com/deep-nostalgia",
+      "normalizedUrl": "https://www.myheritage.com/deep-nostalgia",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://creator.nightcafe.studio",
+      "normalizedUrl": "https://creator.nightcafe.studio",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://openart.ai/",
+      "normalizedUrl": "https://openart.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://phygital.plus/",
+      "normalizedUrl": "https://phygital.plus/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://piktochart.com/",
+      "normalizedUrl": "https://piktochart.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.recraft.ai/",
+      "normalizedUrl": "https://www.recraft.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.visily.ai/",
+      "normalizedUrl": "https://www.visily.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://topai.tools/t/visualeyes",
+      "normalizedUrl": "https://topai.tools/t/visualeyes",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://fooocus.one/playground",
+      "normalizedUrl": "https://fooocus.one/playground",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://illustroke.com/?aff=3MvnSS0H&gad_source=1&gclid=CjwKCAjw47i_BhBTEiwAaJfPpsaotAaDr_3YGcFkOZy2T-e5-e07LJZWVWdntTKrhr6cybJDDOB6TRoCLhwQAvD_BwE",
+      "normalizedUrl": "https://illustroke.com/?aff=3MvnSS0H&gad_source=1&gclid=CjwKCAjw47i_BhBTEiwAaJfPpsaotAaDr_3YGcFkOZy2T-e5-e07LJZWVWdntTKrhr6cybJDDOB6TRoCLhwQAvD_BwE",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.classpoint.io",
+      "normalizedUrl": "https://www.classpoint.io",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.educationcopilot.com",
+      "normalizedUrl": "https://www.educationcopilot.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.gradescope.com/",
+      "normalizedUrl": "https://www.gradescope.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.mendeley.com",
+      "normalizedUrl": "https://www.mendeley.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://notebooklm.google/",
+      "normalizedUrl": "https://notebooklm.google/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.photomath.com",
+      "normalizedUrl": "https://www.photomath.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.sendsteps.com",
+      "normalizedUrl": "https://www.sendsteps.com",
+      "status": 308,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.slidesai.io",
+      "normalizedUrl": "https://www.slidesai.io",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://socratic.org",
+      "normalizedUrl": "https://socratic.org",
+      "status": 302,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://pt.symbolab.com/",
+      "normalizedUrl": "https://pt.symbolab.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://hellothinkster.com/",
+      "normalizedUrl": "https://hellothinkster.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.wolframalpha.com",
+      "normalizedUrl": "https://www.wolframalpha.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://yippity.io/",
+      "normalizedUrl": "https://yippity.io/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.youlearn.ai/",
+      "normalizedUrl": "https://www.youlearn.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://gamma.app",
+      "normalizedUrl": "https://gamma.app",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://tome.app",
+      "normalizedUrl": "https://tome.app",
+      "status": 308,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.brand24.com",
+      "normalizedUrl": "https://www.brand24.com",
+      "status": 302,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.hubspot.com",
+      "normalizedUrl": "https://www.hubspot.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.humata.ai/",
+      "normalizedUrl": "https://www.humata.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.surferseo.com",
+      "normalizedUrl": "https://www.surferseo.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://julius.ai/",
+      "normalizedUrl": "https://julius.ai/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.chatbase.co/",
+      "normalizedUrl": "https://www.chatbase.co/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.bardeen.ai/",
+      "normalizedUrl": "https://www.bardeen.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.howler.media/",
+      "normalizedUrl": "https://www.howler.media/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.character.ai",
+      "normalizedUrl": "https://www.character.ai",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://chatsonic.com",
+      "normalizedUrl": "https://chatsonic.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.clipto.com/pt/free-ai-transcribe-video-audio-to-text-in-second?gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595gIdlPeSr0Z0NSUemxSfTSjtGwcwtvAccJ0PwjEabkOtU6s-CUvE6MaAus5EALw_wcB",
+      "normalizedUrl": "https://www.clipto.com/pt/free-ai-transcribe-video-audio-to-text-in-second?gad_source=1&gclid=Cj0KCQiA88a5BhDPARIsAFj595gIdlPeSr0Z0NSUemxSfTSjtGwcwtvAccJ0PwjEabkOtU6s-CUvE6MaAus5EALw_wcB",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://deepgram.com/",
+      "normalizedUrl": "https://deepgram.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.descript.com/",
+      "normalizedUrl": "https://www.descript.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://elevenlabs.io/",
+      "normalizedUrl": "https://elevenlabs.io/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.feedhive.io",
+      "normalizedUrl": "https://www.feedhive.io",
+      "status": 302,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://getfluently.app/",
+      "normalizedUrl": "https://getfluently.app/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.ibm.com/br-pt/watson",
+      "normalizedUrl": "https://www.ibm.com/br-pt/watson",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.kuki.ai",
+      "normalizedUrl": "https://www.kuki.ai",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.lately.ai",
+      "normalizedUrl": "https://www.lately.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.theseventhsense.com",
+      "normalizedUrl": "https://www.theseventhsense.com",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://textcortex.com/pt",
+      "normalizedUrl": "https://textcortex.com/pt",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.timeular.com",
+      "normalizedUrl": "https://www.timeular.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.zapier.com",
+      "normalizedUrl": "https://www.zapier.com",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://dify.ai",
+      "normalizedUrl": "https://dify.ai",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://n8n.io",
+      "normalizedUrl": "https://n8n.io",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.langflow.org",
+      "normalizedUrl": "https://www.langflow.org",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.make.com/en/ai-automation",
+      "normalizedUrl": "https://www.make.com/en/ai-automation",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.deepseek.com",
+      "normalizedUrl": "https://www.deepseek.com",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://supertools.therundown.ai/",
+      "normalizedUrl": "https://supertools.therundown.ai/",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://chat.openai.com/",
+      "normalizedUrl": "https://chat.openai.com/",
+      "status": 308,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://claude.ai/",
+      "normalizedUrl": "https://claude.ai/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://gemini.google.com/app?hl=pt-BR",
+      "normalizedUrl": "https://gemini.google.com/app?hl=pt-BR",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://maricata.ai",
+      "normalizedUrl": "https://maricata.ai",
+      "status": null,
+      "success": false,
+      "error": "getaddrinfo ENOTFOUND maricata.ai",
+      "type": "link"
+    },
+    {
+      "url": "https://you.com/chat",
+      "normalizedUrl": "https://you.com/chat",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "aistudio.google.com",
+      "normalizedUrl": "https://aistudio.google.com",
+      "status": 302,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.microsoft.com/copilot",
+      "normalizedUrl": "https://www.microsoft.com/copilot",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://manus.im/",
+      "normalizedUrl": "https://manus.im/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://www.cursor.com/",
+      "normalizedUrl": "https://www.cursor.com/",
+      "status": 308,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://lovable.dev/",
+      "normalizedUrl": "https://lovable.dev/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://flutterflow.io/",
+      "normalizedUrl": "https://flutterflow.io/",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://bubble.io/",
+      "normalizedUrl": "https://bubble.io/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://qwenlm.github.io/",
+      "normalizedUrl": "https://qwenlm.github.io/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://windsurf.ai/",
+      "normalizedUrl": "https://windsurf.ai/",
+      "status": 301,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://chat.z.ai/",
+      "normalizedUrl": "https://chat.z.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://vibecoding.com/",
+      "normalizedUrl": "https://vibecoding.com/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://boltz.ai/",
+      "normalizedUrl": "https://boltz.ai/",
+      "status": null,
+      "success": false,
+      "error": "getaddrinfo ENOTFOUND boltz.ai",
+      "type": "link"
+    },
+    {
+      "url": "https://trae.app/",
+      "normalizedUrl": "https://trae.app/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://kiro.dev/",
+      "normalizedUrl": "https://kiro.dev/",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://abacus.ai/",
+      "normalizedUrl": "https://abacus.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://qorder.app/",
+      "normalizedUrl": "https://qorder.app/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://zoer.ai/",
+      "normalizedUrl": "https://zoer.ai/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://stringalpha.com/",
+      "normalizedUrl": "https://stringalpha.com/",
+      "status": 502,
+      "success": false,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://buildership.com/",
+      "normalizedUrl": "https://buildership.com/",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "link"
+    },
+    {
+      "url": "https://opal.googlelabs.com/",
+      "normalizedUrl": "https://opal.googlelabs.com/",
+      "status": null,
+      "success": false,
+      "error": "getaddrinfo EAI_AGAIN opal.googlelabs.com",
+      "type": "link"
+    },
+    {
+      "url": "https://simai.training/",
+      "normalizedUrl": "https://simai.training/",
+      "status": null,
+      "success": false,
+      "error": "getaddrinfo ENOTFOUND simai.training",
+      "type": "link"
+    },
+    {
+      "url": "https://audiopen.cdn.bubble.io/f1681586361226x441408577463338300/record.svg",
+      "normalizedUrl": "https://audiopen.cdn.bubble.io/f1681586361226x441408577463338300/record.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg",
+      "normalizedUrl": "https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://liner.ai/image/logo2.svg",
+      "normalizedUrl": "https://liner.ai/image/logo2.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://store-images.s-microsoft.com/image/apps.32509.a11d5489-ba51-4ae7-8f9a-8d9bb1f75c51.626b396d-6ee9-4d42-a2fb-42d9f7d3fcb2.6cc3437e-de21-4347-a8e3-fe5d3eee1f64",
+      "normalizedUrl": "https://store-images.s-microsoft.com/image/apps.32509.a11d5489-ba51-4ae7-8f9a-8d9bb1f75c51.626b396d-6ee9-4d42-a2fb-42d9f7d3fcb2.6cc3437e-de21-4347-a8e3-fe5d3eee1f64",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/imw4zSeaSUa-duDEAGXPjIrpj1boTkZJ3Xc9cr9y0ENJCXInGjWJMN4uFXSdJFxz4Lc=w240-h480-rw",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/imw4zSeaSUa-duDEAGXPjIrpj1boTkZJ3Xc9cr9y0ENJCXInGjWJMN4uFXSdJFxz4Lc=w240-h480-rw",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://media.tekpon.com/2023/04/Otter-ai-Logo.webp",
+      "normalizedUrl": "https://media.tekpon.com/2023/04/Otter-ai-Logo.webp",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png",
+      "normalizedUrl": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://icons.iconarchive.com/icons/simpleicons-team/simple/256/poe-icon.png",
+      "normalizedUrl": "https://icons.iconarchive.com/icons/simpleicons-team/simple/256/poe-icon.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JDE933rFRZkxL6oCx5OW8fsPIhGPs7CU3g&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2JDE933rFRZkxL6oCx5OW8fsPIhGPs7CU3g&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://storage.googleapis.com/swipe-insight/content/images/sources_logos/adcreative-ai.webp",
+      "normalizedUrl": "https://storage.googleapis.com/swipe-insight/content/images/sources_logos/adcreative-ai.webp",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://aial-prod.s3.eu-central-1.amazonaws.com/agents/anyword.webp",
+      "normalizedUrl": "https://aial-prod.s3.eu-central-1.amazonaws.com/agents/anyword.webp",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/C560BAQHEkBOwlMdkfQ/company-logo_200_200/company-logo_200_200/0/1630651474425/clarice_ai_logo?e=2147483647&v=beta&t=PzVZR3wqAeW5mujs3LrnUp11h_5XeUI3LdROG0vbajE",
+      "normalizedUrl": "https://media.licdn.com/dms/image/v2/C560BAQHEkBOwlMdkfQ/company-logo_200_200/company-logo_200_200/0/1630651474425/clarice_ai_logo?e=2147483647&v=beta&t=PzVZR3wqAeW5mujs3LrnUp11h_5XeUI3LdROG0vbajE",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://storage.googleapis.com/hootsuite-assets/app-directory-logo.svg",
+      "normalizedUrl": "https://storage.googleapis.com/hootsuite-assets/app-directory-logo.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/60e5f2de011b86acebc30db7/665dd9c1792c38c09c7d74ec_Jasper%20Logo%20Lockup%20-%20Dark%20Khaki.svg",
+      "normalizedUrl": "https://cdn.prod.website-files.com/60e5f2de011b86acebc30db7/665dd9c1792c38c09c7d74ec_Jasper%20Logo%20Lockup%20-%20Dark%20Khaki.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://mms-app.s3.amazonaws.com/wordpress/2021/06/15120226/marketmuse-share.png\\n\\n",
+      "normalizedUrl": "https://mms-app.s3.amazonaws.com/wordpress/2021/06/15120226/marketmuse-share.png\\n\\n",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/postwise/postwise-icon-filled-256.png?v=1714782939491",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/postwise/postwise-icon-filled-256.png?v=1714782939491",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/promptpal/promptpal-icon-filled-256.webp?v=1714780825377",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/promptpal/promptpal-icon-filled-256.webp?v=1714780825377",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9f8df7c21faf1372a87be5c4c02dab65/rytr.png",
+      "normalizedUrl": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9f8df7c21faf1372a87be5c4c02dab65/rytr.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D560BAQFiS5WRh_9Jmw/company-logo_200_200/company-logo_200_200/0/1709783070169/storydotcom_logo?e=2147483647&v=beta&t=Zz5ANxqk1mEboJgs5hISo7KtoRCut8x_ck5xaimW5vU",
+      "normalizedUrl": "https://media.licdn.com/dms/image/v2/D560BAQFiS5WRh_9Jmw/company-logo_200_200/company-logo_200_200/0/1709783070169/storydotcom_logo?e=2147483647&v=beta&t=Zz5ANxqk1mEboJgs5hISo7KtoRCut8x_ck5xaimW5vU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-b.saashub.com/images/app/service_logos/171/e8yh0zwzrsuh/large.png?1638399904",
+      "normalizedUrl": "https://cdn-b.saashub.com/images/app/service_logos/171/e8yh0zwzrsuh/large.png?1638399904",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/writesonic/writesonic-icon-filled-256.png?v=1714776525059",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/writesonic/writesonic-icon-filled-256.png?v=1714776525059",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4ccOo9DfZdcqGDpygRtkfKIIX9PRJrhQdQ&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4ccOo9DfZdcqGDpygRtkfKIIX9PRJrhQdQ&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-I3O6IPIt60b3fY2Qdx8eUgw2JgUla7uZoUmTDRf7FnhVxCo2a_gNteCMY5uYqkf02XI&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-I3O6IPIt60b3fY2Qdx8eUgw2JgUla7uZoUmTDRf7FnhVxCo2a_gNteCMY5uYqkf02XI&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/10web/10web-icon-filled-256.png?v=1714780677189",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/10web/10web-icon-filled-256.png?v=1714780677189",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://digino.org/wp-content/uploads/2023/12/blackbox-ai-logo.png",
+      "normalizedUrl": "https://digino.org/wp-content/uploads/2023/12/blackbox-ai-logo.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.dora.run/__dora__/account/assets/logo.3c206881.svg",
+      "normalizedUrl": "https://www.dora.run/__dora__/account/assets/logo.3c206881.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3rCyOUOcwzMQoslczKRo9rK3EAWr-pHZTQ&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3rCyOUOcwzMQoslczKRo9rK3EAWr-pHZTQ&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512",
+      "normalizedUrl": "https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.wegic.ai/assets/email/logo.ico",
+      "normalizedUrl": "https://cdn.wegic.ai/assets/email/logo.ico",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://predis.ai/assets/img/predis_logo-min.webp",
+      "normalizedUrl": "https://predis.ai/assets/img/predis_logo-min.webp",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/uosng4omsipht7cpvbi8",
+      "normalizedUrl": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/uosng4omsipht7cpvbi8",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://a.fsdn.com/allura/s/autopod/icon?ed846fd7ed12c988143f2dff146771e03c323a874078198e1bba94682ae91446?&w=148",
+      "normalizedUrl": "https://a.fsdn.com/allura/s/autopod/icon?ed846fd7ed12c988143f2dff146771e03c323a874078198e1bba94682ae91446?&w=148",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHzu2wTt7Sntg/company-logo_200_200/company-logo_200_200/0/1694865743372/choppity_logo?e=2147483647&v=beta&t=zTyYk5xl2CVZcvoMtlaAh7CxEOH0hjAyKMNwvyeCMh0",
+      "normalizedUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHzu2wTt7Sntg/company-logo_200_200/company-logo_200_200/0/1694865743372/choppity_logo?e=2147483647&v=beta&t=zTyYk5xl2CVZcvoMtlaAh7CxEOH0hjAyKMNwvyeCMh0",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66e1a30a9a12f4c1d2bb3e9f_heygen-logotype.svg",
+      "normalizedUrl": "https://cdn.prod.website-files.com/66a9edf7bd0139f5207e19be/66e1a30a9a12f4c1d2bb3e9f_heygen-logotype.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://web-assets.invideo.io/common/prod/logos/invideo-ai-light.svg",
+      "normalizedUrl": "https://web-assets.invideo.io/common/prod/logos/invideo-ai-light.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://res.jogg.ai/sub-module/static-file/71e8c708db37",
+      "normalizedUrl": "https://res.jogg.ai/sub-module/static-file/71e8c708db37",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxiFAkwQLKBUq88VEYONKGs8FKST-e4R9Tw&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxiFAkwQLKBUq88VEYONKGs8FKST-e4R9Tw&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://lumen5.com/learn/wp-content/uploads/2022/03/L5-logo-fullColor-rgb-Purple-Square.png",
+      "normalizedUrl": "https://lumen5.com/learn/wp-content/uploads/2022/03/L5-logo-fullColor-rgb-Purple-Square.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://nullface.ai/images/logo.png",
+      "normalizedUrl": "https://nullface.ai/images/logo.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://iaacademy.club/wp-content/uploads/2023/10/pXxCdS5q_400x400.jpg",
+      "normalizedUrl": "https://iaacademy.club/wp-content/uploads/2023/10/pXxCdS5q_400x400.jpg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://pictory.ai/wp-content/uploads/2022/08/logo-new-font-TM.png",
+      "normalizedUrl": "https://pictory.ai/wp-content/uploads/2022/08/logo-new-font-TM.png",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.fahimai.com/wp-content/uploads/2024/06/Untitled-800-x-800-px-1.png",
+      "normalizedUrl": "https://www.fahimai.com/wp-content/uploads/2024/06/Untitled-800-x-800-px-1.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiJay5shdsCyUhYXbApX9ZYUSzdcLQ5XlrSE70Sk1IJMzllwGf32XoOLzQQsBRLO7-Fg&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiJay5shdsCyUhYXbApX9ZYUSzdcLQ5XlrSE70Sk1IJMzllwGf32XoOLzQQsBRLO7-Fg&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://img.alicdn.com/imgextra/i3/2216045781517/O1CN01XjlCbk1N4plcY5u1y_!!2-item_pic.png",
+      "normalizedUrl": "https://img.alicdn.com/imgextra/i3/2216045781517/O1CN01XjlCbk1N4plcY5u1y_!!2-item_pic.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae689ace95f5017dc17a0_Logo-main.svg",
+      "normalizedUrl": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae689ace95f5017dc17a0_Logo-main.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://atai-main.b-cdn.net/tools/videogen-icon.png",
+      "normalizedUrl": "https://atai-main.b-cdn.net/tools/videogen-icon.png",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://stackviv.ai/wp-content/uploads/2023/11/Vidyo.png.webp",
+      "normalizedUrl": "https://stackviv.ai/wp-content/uploads/2023/11/Vidyo.png.webp",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1547177547330355200/7J8zlbZB_400x400.png",
+      "normalizedUrl": "https://pbs.twimg.com/profile_images/1547177547330355200/7J8zlbZB_400x400.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/aiva/aiva-icon-filled-256.webp?v=1714780767514",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/aiva/aiva-icon-filled-256.webp?v=1714780767514",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://miro.medium.com/v2/resize:fit:960/1*xpSGmtnpDtrWdOCxdRc_sQ.png",
+      "normalizedUrl": "https://miro.medium.com/v2/resize:fit:960/1*xpSGmtnpDtrWdOCxdRc_sQ.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.fineshare.com/wp-content/uploads/2024/06/Replica-Studios.png",
+      "normalizedUrl": "https://www.fineshare.com/wp-content/uploads/2024/06/Replica-Studios.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/soundraw/soundraw-icon-filled-256.png?v=17147781763466",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/soundraw/soundraw-icon-filled-256.png?v=17147781763466",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/KeE4TV1dcCZyd8iEYIYbOxBNPvdbMXs-VcJ-gNTA8En07mIVikts7dnT07PYk62dJ9er",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/KeE4TV1dcCZyd8iEYIYbOxBNPvdbMXs-VcJ-gNTA8En07mIVikts7dnT07PYk62dJ9er",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.rev.ai/content/curve/img/revai/logo/logo-black-mobile.svg?v=wtjDEWXNn9Cu-Vki_-j4VS6yJ86McQSlRw59dj7Tiqc",
+      "normalizedUrl": "https://www.rev.ai/content/curve/img/revai/logo/logo-black-mobile.svg?v=wtjDEWXNn9Cu-Vki_-j4VS6yJ86McQSlRw59dj7Tiqc",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://i.pinimg.com/736x/1c/65/6a/1c656a8d8342d6b9f7510df2c73b6399.jpg",
+      "normalizedUrl": "https://i.pinimg.com/736x/1c/65/6a/1c656a8d8342d6b9f7510df2c73b6399.jpg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://mma.prnewswire.com/media/1341668/krisp_Logo.jpg?p=facebook",
+      "normalizedUrl": "https://mma.prnewswire.com/media/1341668/krisp_Logo.jpg?p=facebook",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/m8sS0x1-yScLCN_0mGtxWlRpp6rEd8z71c23RbeAD0KA3rS6GPpDp25VxQfjHRFAXJE",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/m8sS0x1-yScLCN_0mGtxWlRpp6rEd8z71c23RbeAD0KA3rS6GPpDp25VxQfjHRFAXJE",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://mms.businesswire.com/media/20231127388431/en/1953851/5/WhatsApp_Image_2023-11-27_at_19.10.06_%281%29.jpg?download=1",
+      "normalizedUrl": "https://mms.businesswire.com/media/20231127388431/en/1953851/5/WhatsApp_Image_2023-11-27_at_19.10.06_%281%29.jpg?download=1",
+      "status": null,
+      "success": false,
+      "error": "Timeout",
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/xJTpboo-si-s3vbzZ9j4rbt4YQPLBWZ8cR_B0DADpFMYTjLF6Z3zVuYcS7Jbxn9N1Jk",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/xJTpboo-si-s3vbzZ9j4rbt4YQPLBWZ8cR_B0DADpFMYTjLF6Z3zVuYcS7Jbxn9N1Jk",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://firefly.adobe.com/imgs/firefly_appicon_mobile.2c11f10a.svg",
+      "normalizedUrl": "https://firefly.adobe.com/imgs/firefly_appicon_mobile.2c11f10a.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/artbreeder/artbreeder-icon-filled-256.png?v=1714777026655",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/artbreeder/artbreeder-icon-filled-256.png?v=1714777026655",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F48de95c8-f7bd-4496-9349-53112687b920.jpeg&w=256&q=75",
+      "normalizedUrl": "https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F48de95c8-f7bd-4496-9349-53112687b920.jpeg&w=256&q=75",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg",
+      "normalizedUrl": "https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/civitai/civitai-icon-filled-256.png?v=1714779870591",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/civitai/civitai-icon-filled-256.png?v=1714779870591",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlyB2qAHAPqIuZ7p86uAb8u21cz7aCnQlZA&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlyB2qAHAPqIuZ7p86uAb8u21cz7aCnQlZA&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png?scale-down-to=1024",
+      "normalizedUrl": "https://framerusercontent.com/images/7Nhoxwn9eWYrqKjEewfXutR90U.png?scale-down-to=1024",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg",
+      "normalizedUrl": "https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png",
+      "normalizedUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://assets.designs.ai/images/dsai-logo/default.webp",
+      "normalizedUrl": "https://assets.designs.ai/images/dsai-logo/default.webp",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://s.cafebazaar.ir/images/icons/com.womboai.wombo-be6118be-0c53-4c29-a265-9462499bcf24_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize",
+      "normalizedUrl": "https://s.cafebazaar.ir/images/icons/com.womboai.wombo-be6118be-0c53-4c29-a265-9462499bcf24_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72Cix8-F7qUtmxh8G55QkXwPiAJ1jN5G4Nw&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72Cix8-F7qUtmxh8G55QkXwPiAJ1jN5G4Nw&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://miro.medium.com/v2/resize:fit:850/1*VgXJsbY74hrGd7umkTgn8Q.jpeg",
+      "normalizedUrl": "https://miro.medium.com/v2/resize:fit:850/1*VgXJsbY74hrGd7umkTgn8Q.jpeg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/64f2fa44b0818c378b17052e/65c4e3dcb13127af927fbd5d_20240208T0220-053c39af-648e-4f80-96d2-e9a2af8325a5.png",
+      "normalizedUrl": "https://cdn.prod.website-files.com/64f2fa44b0818c378b17052e/65c4e3dcb13127af927fbd5d_20240208T0220-053c39af-648e-4f80-96d2-e9a2af8325a5.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://digino.org/wp-content/uploads/2023/12/ideogram-ai-logo.png",
+      "normalizedUrl": "https://digino.org/wp-content/uploads/2023/12/ideogram-ai-logo.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/khroma/khroma-icon-filled-256.webp?v=1714781476902",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/khroma/khroma-icon-filled-256.webp?v=1714781476902",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg",
+      "normalizedUrl": "https://looka.com/wp-content/themes/looka/images/logos/looka_logo_black.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtH5bQuqO2_7hKIUZvBhaDGcYI5M9zxxhJhm8mr53ZSAKEyzqRcj7MWSyNZHRcxV6WME&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtH5bQuqO2_7hKIUZvBhaDGcYI5M9zxxhJhm8mr53ZSAKEyzqRcj7MWSyNZHRcxV6WME&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg",
+      "normalizedUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/08/MyHeritage_icon.jpg",
+      "normalizedUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/08/MyHeritage_icon.jpg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://nightcafe.studio/cdn/shop/files/night-cafe-logo_978x.png?v=1614787028",
+      "normalizedUrl": "https://nightcafe.studio/cdn/shop/files/night-cafe-logo_978x.png?v=1614787028",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6600e1eab90de089c2d9c972/661592239b560b13e5156fa7_Logo_dark.svg",
+      "normalizedUrl": "https://cdn.prod.website-files.com/6600e1eab90de089c2d9c972/661592239b560b13e5156fa7_Logo_dark.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1550467552496721922/De_tYfk__400x400.jpg",
+      "normalizedUrl": "https://pbs.twimg.com/profile_images/1550467552496721922/De_tYfk__400x400.jpg",
+      "status": 404,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg",
+      "normalizedUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/FRzBTtZ8hApfBsi6yy2uMSzQcD9gslph0SUmGCX4w29DoELdf8zbNHX1BNb9-lno78E",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/FRzBTtZ8hApfBsi6yy2uMSzQcD9gslph0SUmGCX4w29DoELdf8zbNHX1BNb9-lno78E",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNf2gmbxg9SpQZl01n_P7eOh3TT0prKC0ouCwoyD3uEHA9Ox0IY9WtOxdNl8nTXMG0jA&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNf2gmbxg9SpQZl01n_P7eOh3TT0prKC0ouCwoyD3uEHA9Ox0IY9WtOxdNl8nTXMG0jA&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://topai.tools/assets/img/favicon.png",
+      "normalizedUrl": "https://topai.tools/assets/img/favicon.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://aitechfy.com/wp-content/uploads/2024/06/Fooocus-logo.png",
+      "normalizedUrl": "https://aitechfy.com/wp-content/uploads/2024/06/Fooocus-logo.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://illustroke.com/assets/logo-2iCHAPR8.png",
+      "normalizedUrl": "https://illustroke.com/assets/logo-2iCHAPR8.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.classpoint.io/_next/static/media/textLogoColor.96f09a1c.svg",
+      "normalizedUrl": "https://www.classpoint.io/_next/static/media/textLogoColor.96f09a1c.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn.sendsteps.com/website/Kopie_van_Microsoft_365_Copilot_1080_x_700_px_d18f6ab510.png",
+      "normalizedUrl": "https://cdn.sendsteps.com/website/Kopie_van_Microsoft_365_Copilot_1080_x_700_px_d18f6ab510.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwlw4QKZl1AvIKHAmrtIW0rPXbtbnDfMVgQ&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwlw4QKZl1AvIKHAmrtIW0rPXbtbnDfMVgQ&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://banner2.cleanpng.com/20190309/vuz/kisspng-mendeley-logo-computer-software-reference-manageme-1713902332467.webp",
+      "normalizedUrl": "https://banner2.cleanpng.com/20190309/vuz/kisspng-mendeley-logo-computer-software-reference-manageme-1713902332467.webp",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://notebooklm.google/_/static/v4/notebook-icon.svg",
+      "normalizedUrl": "https://notebooklm.google/_/static/v4/notebook-icon.svg",
+      "status": 404,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnf84-d0KHysPJK_Ynjz1UBTchYCAj2llU-YWxC9mTdVZRCp0V",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnf84-d0KHysPJK_Ynjz1UBTchYCAj2llU-YWxC9mTdVZRCp0V",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvRL-jjD5C7zNLF5DI4iYIVEX88GJBKWwQZcXWFzcu7YpoEY_SYqIqHrkqHOPyFjUuRE&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvRL-jjD5C7zNLF5DI4iYIVEX88GJBKWwQZcXWFzcu7YpoEY_SYqIqHrkqHOPyFjUuRE&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6bq9Wd-HfTcIhV7xguw_MMCIyNbFXefJ5pKbA35m9R0XCDDyyFLoqlc6hwGsaybQ55Q&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6bq9Wd-HfTcIhV7xguw_MMCIyNbFXefJ5pKbA35m9R0XCDDyyFLoqlc6hwGsaybQ55Q&usqp=CAU",
+      "status": 404,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.futurepedia.io/s3/optimized-image/2h3uGghOCKjClNIQ0XPo0s?format=auto&width=256",
+      "normalizedUrl": "https://www.futurepedia.io/s3/optimized-image/2h3uGghOCKjClNIQ0XPo0s?format=auto&width=256",
+      "status": 404,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhnmm_O21xFtA4BeMveRUgE_uz1r_HrPYhE-agFdeJqzJOpsudBqv1v_eD3BJpf6YZC0&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhnmm_O21xFtA4BeMveRUgE_uz1r_HrPYhE-agFdeJqzJOpsudBqv1v_eD3BJpf6YZC0&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8I0a9z2quJUv5dT8YF1xmNEJ40Qh3kW_ou9EwdjJmb0NpRARDke4Hq_D1JovPPAoPcQ&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8I0a9z2quJUv5dT8YF1xmNEJ40Qh3kW_ou9EwdjJmb0NpRARDke4Hq_D1JovPPAoPcQ&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAaQwBFxVfr-2-8gyZERMs5mF_bjBUuGlmQ&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAaQwBFxVfr-2-8gyZERMs5mF_bjBUuGlmQ&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlT6NIFMvTVC20WQj9RviUrsFpGgQrNoUiHkk1OPfjYFQfmSe7FVQuJebsEsJgiqqX2I&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlT6NIFMvTVC20WQj9RviUrsFpGgQrNoUiHkk1OPfjYFQfmSe7FVQuJebsEsJgiqqX2I&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://app.youlearn.ai/youlearn.png",
+      "normalizedUrl": "https://app.youlearn.ai/youlearn.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png",
+      "normalizedUrl": "https://www.wpcrafter.com/wp-content/uploads/2024/08/gamma-1.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://res.cloudinary.com/apideck/image/upload/v1649374922/icons/tome-app.png",
+      "normalizedUrl": "https://res.cloudinary.com/apideck/image/upload/v1649374922/icons/tome-app.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/w2LU8ethnOpquVcbJAVkikSTnX83IS5m5Js-9dOOOtC6CrGltm2-Puu4btu1azc_zyg",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/w2LU8ethnOpquVcbJAVkikSTnX83IS5m5Js-9dOOOtC6CrGltm2-Puu4btu1azc_zyg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-icons-png.flaticon.com/256/5968/5968872.png",
+      "normalizedUrl": "https://cdn-icons-png.flaticon.com/256/5968/5968872.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1703895347393699840/KFLcQs1M_400x400.jpg",
+      "normalizedUrl": "https://pbs.twimg.com/profile_images/1703895347393699840/KFLcQs1M_400x400.jpg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://uploads.commoninja.com/searchengine/wordpress/surferseo.png",
+      "normalizedUrl": "https://uploads.commoninja.com/searchengine/wordpress/surferseo.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOigG8Mpo3HcSaROczVY0W8MOnwKLbEVZvLLflSxEpNLgXLZLx4fUnkjPXQwdt35eDDc&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOigG8Mpo3HcSaROczVY0W8MOnwKLbEVZvLLflSxEpNLgXLZLx4fUnkjPXQwdt35eDDc&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.chatbase.co/images/chatbase-logo.svg",
+      "normalizedUrl": "https://www.chatbase.co/images/chatbase-logo.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://avatars.githubusercontent.com/u/64928485?s=280&v=4",
+      "normalizedUrl": "https://avatars.githubusercontent.com/u/64928485?s=280&v=4",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.howler.media/static/media/logo-2.50dc56ef.svg",
+      "normalizedUrl": "https://www.howler.media/static/media/logo-2.50dc56ef.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1638842319104516097/TketN7Pm_200x200.jpg",
+      "normalizedUrl": "https://pbs.twimg.com/profile_images/1638842319104516097/TketN7Pm_200x200.jpg",
+      "status": 404,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpuSv9qsXWQ7tvN9xvBJIiOyxc30fzAKGDw&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpuSv9qsXWQ7tvN9xvBJIiOyxc30fzAKGDw&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.clipto.com/favicon.ico",
+      "normalizedUrl": "https://www.clipto.com/favicon.ico",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_J3lQfLZCSZsrrfBUelLctJCd1rIRcBb3n5vy7LXdDZ0E7_uq5GF_xw8tOPJF8H93m20&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_J3lQfLZCSZsrrfBUelLctJCd1rIRcBb3n5vy7LXdDZ0E7_uq5GF_xw8tOPJF8H93m20&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://descript-website.vercel.app/images/descript-logo.svg",
+      "normalizedUrl": "https://descript-website.vercel.app/images/descript-logo.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/Im726gXJYWu6Lw0M6BcPNV1BdlO7QVB1wQfMtEnsn1-J4e80WI7AEivVXDrK1ypsm0o=w240-h480-rw",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/Im726gXJYWu6Lw0M6BcPNV1BdlO7QVB1wQfMtEnsn1-J4e80WI7AEivVXDrK1ypsm0o=w240-h480-rw",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://hypefury.com/wp-content/uploads/2023/04/Feedhive-logo-only-300x300.png",
+      "normalizedUrl": "https://hypefury.com/wp-content/uploads/2023/04/Feedhive-logo-only-300x300.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://framerusercontent.com/images/5TOWtySXFNj8PhxRoqLBYGCK6s.png",
+      "normalizedUrl": "https://framerusercontent.com/images/5TOWtySXFNj8PhxRoqLBYGCK6s.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://www.ibm.com/favicon.ico",
+      "normalizedUrl": "https://www.ibm.com/favicon.ico",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5fd110ee514f2770efc95c70/b1921d3e-5e8e-4e5a-9826-ab8ef85bd51e/K+fav+resized.png",
+      "normalizedUrl": "https://images.squarespace-cdn.com/content/v1/5fd110ee514f2770efc95c70/b1921d3e-5e8e-4e5a-9826-ab8ef85bd51e/K+fav+resized.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6k5YtOBimqYqnHSPEzaXruGzfd99U9RdCy_xgIjyF6_5YXBup--gLGdfM5kO6fLq7so&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6k5YtOBimqYqnHSPEzaXruGzfd99U9RdCy_xgIjyF6_5YXBup--gLGdfM5kO6fLq7so&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fe5ef8bf8d08d9ee9cf27eaf2fe7bb78/seventh-sense.jpeg",
+      "normalizedUrl": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_fe5ef8bf8d08d9ee9cf27eaf2fe7bb78/seventh-sense.jpeg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/iay9HUXcZPRCt7rFEuVM9WBuwG13R5e7oe8_2zws4Js8j-Z0i1xXvuDLGmuE6KpKFCTBQ5YGfAPqQzuQ2SGKv3U2=s128-rj-sc0x00ffffff",
+      "normalizedUrl": "https://lh3.googleusercontent.com/iay9HUXcZPRCt7rFEuVM9WBuwG13R5e7oe8_2zws4Js8j-Z0i1xXvuDLGmuE6KpKFCTBQ5YGfAPqQzuQ2SGKv3U2=s128-rj-sc0x00ffffff",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://pipedream.com/s.v0/app_02h9wE/logo/orig",
+      "normalizedUrl": "https://pipedream.com/s.v0/app_02h9wE/logo/orig",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6ZksjABBgxRBWulwOsbWbQS0zOzSc7WVQcYZG9HXEeSgXE-hl_axFf3K4jY1gjrR3a4&usqp=CAUU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6ZksjABBgxRBWulwOsbWbQS0zOzSc7WVQcYZG9HXEeSgXE-hl_axFf3K4jY1gjrR3a4&usqp=CAUU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://cdn-1.webcatalog.io/catalog/dify/dify-icon-filled-256.png?v=1720577821936",
+      "normalizedUrl": "https://cdn-1.webcatalog.io/catalog/dify/dify-icon-filled-256.png?v=1720577821936",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEd-6BLG9826XCSwnKRt6vdG7oNsWYSZAOHQ&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEd-6BLG9826XCSwnKRt6vdG7oNsWYSZAOHQ&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://docs.langflow.org/img/langflow-logo-black.svg",
+      "normalizedUrl": "https://docs.langflow.org/img/langflow-logo-black.svg",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Q-rv08c_n7_govve45epE0llVXcJCsW6yA&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Q-rv08c_n7_govve45epE0llVXcJCsW6yA&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw",
+      "normalizedUrl": "https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://assets.super.so/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/uploads/favicon/f4df662c-f46b-41d1-8e0c-9d0ef23e6a93.png",
+      "normalizedUrl": "https://assets.super.so/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/uploads/favicon/f4df662c-f46b-41d1-8e0c-9d0ef23e6a93.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png",
+      "normalizedUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://claude.ai/images/claude_app_icon.png",
+      "normalizedUrl": "https://claude.ai/images/claude_app_icon.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSosl2tXbr48UhYwDHeao5ISoU0zZ4HQmTB1hVtrpi5OnPjhRsruNwUfbO3iCHQiDF36E&usqp=CAU",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSosl2tXbr48UhYwDHeao5ISoU0zZ4HQmTB1hVtrpi5OnPjhRsruNwUfbO3iCHQiDF36E&usqp=CAU",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67AeU1RDy_8yCsc-sVYGYC9Mf34_m9LTOXQ&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67AeU1RDy_8yCsc-sVYGYC9Mf34_m9LTOXQ&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://timelines.ai/wp-content/uploads/2025/03/Google-AI.png",
+      "normalizedUrl": "https://timelines.ai/wp-content/uploads/2025/03/Google-AI.png",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://store-images.s-microsoft.com/image/apps.22196.13623743226081137.44717f35-32c5-4d9e-ab80-390d1fdf3f60.f47480f4-1941-4044-8028-2e94660969bf",
+      "normalizedUrl": "https://store-images.s-microsoft.com/image/apps.22196.13623743226081137.44717f35-32c5-4d9e-ab80-390d1fdf3f60.f47480f4-1941-4044-8028-2e94660969bf",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0loQ0FoBGusYJowGbDVCRs4OQj8bUWlQt7g&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0loQ0FoBGusYJowGbDVCRs4OQj8bUWlQt7g&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAoqhlxXf-36CbEskbnnPQ6S6Ra92Mx4Rjg&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAoqhlxXf-36CbEskbnnPQ6S6Ra92Mx4Rjg&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQtM8BJDfLEhWW3D9VfgYB_f8ayfh9816Nw&s",
+      "normalizedUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQtM8BJDfLEhWW3D9VfgYB_f8ayfh9816Nw&s",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://kiro.dev/icon.svg?fe599162bb293ea0",
+      "normalizedUrl": "https://kiro.dev/icon.svg?fe599162bb293ea0",
+      "status": 403,
+      "success": false,
+      "error": null,
+      "type": "icon"
+    },
+    {
+      "url": "https://avatars.githubusercontent.com/u/68347282?s=280&v=4",
+      "normalizedUrl": "https://avatars.githubusercontent.com/u/68347282?s=280&v=4",
+      "status": 200,
+      "success": true,
+      "error": null,
+      "type": "icon"
+    }
+  ]
+}

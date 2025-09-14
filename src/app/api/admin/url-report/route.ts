@@ -7,7 +7,7 @@ import { promisify } from 'util';
 export const dynamic = 'force-dynamic';
 
 const execAsync = promisify(exec);
-const REPORT_DIR = path.join(process.cwd(), 'scripts');
+const REPORT_DIR = path.join(process.cwd(), 'src', 'scripts');
 const JSON_REPORT_PATH = path.join(REPORT_DIR, 'url-test-report.json');
 
 interface URLTestResult {

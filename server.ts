@@ -6,7 +6,7 @@ import next from 'next';
 
 const dev = process.env.NODE_ENV !== 'production';
 const currentPort = Number(process.env.PORT) || 3000;
-const hostname = '0.0.0.0';
+const hostname = 'localhost';
 
 // Servidor customizado com integração Socket.IO
 async function createCustomServer() {
@@ -44,15 +44,14 @@ async function createCustomServer() {
 
     // Iniciar o servidor
     server.listen(currentPort, hostname, () => {
-      console.log(`> Ready on http://${hostname}:${currentPort}`);
-      console.log(`> Socket.IO server running at ws://${hostname}:${currentPort}/api/socketio`);
+      console.log(`> Rodando em http://${hostname}:${currentPort}`);
+      console.log(`> Socket.IO server rodando em ws://${hostname}:${currentPort}/api/socketio`);
     });
 
   } catch (err) {
-    console.error('Server startup error:', err);
+    console.error('Server startup erro:', err);
     process.exit(1);
   }
 }
 
-// Start the server
 createCustomServer();

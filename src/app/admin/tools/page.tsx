@@ -107,7 +107,7 @@ export default function AdminToolsPage() {
     }
 
     try {
-      const response = await fetch(`/api/admin/tools/${tool.id}`, {
+      const response = await fetch(`/api/admin/tools-supabase/${tool.id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': 'Bearer admin-authenticated'
@@ -128,7 +128,7 @@ export default function AdminToolsPage() {
   const handleSaveTool = async (toolData: AITool) => {
     try {
       const isEditing = !!editingTool;
-      const url = isEditing ? `/api/admin/tools/${toolData.id}` : '/api/admin/tools';
+      const url = isEditing ? `/api/admin/tools-supabase/${toolData.id}` : '/api/admin/tools-supabase';
       const method = isEditing ? 'PUT' : 'POST';
 
       const response = await fetch(url, {

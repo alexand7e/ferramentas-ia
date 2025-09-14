@@ -3,14 +3,14 @@ const fs = require('fs');
 const path = require('path');
 
 // Carrega as variáveis de ambiente
-require('dotenv').config({ path: '.env.local' });
+require('dotenv').config({ path: '.env' });
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
 const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
 if (!supabaseUrl || !supabaseAnonKey) {
-  console.error('❌ Credenciais do Supabase não encontradas no arquivo .env.local');
-  console.log('\n📝 Configure as seguintes variáveis no arquivo .env.local:');
+  console.error('❌ Credenciais do Supabase não encontradas no arquivo .env');
+  console.log('\n📝 Configure as seguintes variáveis no arquivo .env:');
   console.log('NEXT_PUBLIC_SUPABASE_URL=sua_url_do_supabase');
   console.log('NEXT_PUBLIC_SUPABASE_ANON_KEY=sua_chave_anonima_do_supabase');
   process.exit(1);

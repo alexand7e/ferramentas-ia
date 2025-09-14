@@ -27,7 +27,7 @@ export class SupabaseService {
 
       if (error) {
         console.error('Erro ao buscar ferramentas:', error);
-        throw new Error('Falha ao buscar ferramentas');
+        throw error;
       }
 
       return data ? data.map(this.mapSupabaseToAITool) : [];

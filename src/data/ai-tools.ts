@@ -165,8 +165,14 @@ export const aiToolsData: AITool[] = [
     "id": "8",
     "name": "Perplexity",
     "description": "Ferramenta de pesquisa e geração de respostas com IA",
-    "category": "Escrita e Comunicação",
-    "license": "Gratuito e Pago",
+    "link": "https://perplexity.ai/",
+    "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png",
+    "category": "Web e Desenvolvimento",
+    "tags": [
+      "Pesquisa",
+      "Consultoria"
+    ],
+    "license": "Gratuito",
     "usability": 4,
     "features": [
       "Respostas rápidas a perguntas complexas",
@@ -175,18 +181,10 @@ export const aiToolsData: AITool[] = [
       "Modo avançado para respostas detalhadas",
       "Aplicativo móvel para consultas"
     ],
-    "tags": [
-      "Pesquisa",
-      "Consultoria"
-    ],
     "languages": [
       "EN",
       "PT"
-    ],
-    "link": "https://www.perplexity.ai/",
-    "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png",
-    "createdAt": "2025-09-01",
-    "updatedAt": "2025-09-01"
+    ]
   },
   {
     "id": "9",
