@@ -12,7 +12,6 @@ import { Switch } from '@/components/ui/switch';
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTrigger } from '@/components/ui/sheet';
 import { useTheme } from 'next-themes';
 import { AITool, ToolCategory, LicenseType, Language, FilterOptions, SortOptions } from '@/types/ai-tool';
-import { aiToolsData } from '@/data/ai-tools';
 import { useFavoritesStore } from '@/stores/favorites';
 import { ToolCard } from '@/components/tool-card';
 import { ToolDetailModal } from '@/components/tool-detail-modal';
@@ -48,7 +47,9 @@ const LANGUAGE_NAMES: Record<Language, string> = {
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');
-  const [filteredTools, setFilteredTools] = useState<AITool[]>(aiToolsData);
+  const [tools, setTools] = useState<AITool[]>([]);
+  const [filteredTools, setFilteredTools] = useState<AITool[]>([]);
+  const [loading, setLoading] = useState(true);
   const [selectedTool, setSelectedTool] = useState<AITool | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid');
@@ -71,9 +72,30 @@ export default function Home() {
   const { theme, setTheme } = useTheme();
   const { favorites, addFavorite, removeFavorite, isFavorite } = useFavoritesStore();
 
+  // Buscar ferramentas da API
+  useEffect(() => {
+    const fetchTools = async () => {
+      try {
+        const response = await fetch('/api/tools');
+        if (response.ok) {
+          const data = await response.json();
+          setTools(data);
+        } else {
+          console.error('Erro ao buscar ferramentas:', response.statusText);
+        }
+      } catch (error) {
+        console.error('Erro ao buscar ferramentas:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchTools();
+  }, []);
+
   // Aplicar filtros e ordenação
   useEffect(() => {
-    let filtered = aiToolsData;
+    let filtered = tools;
 
     // Filtro de busca
     if (searchQuery) {
@@ -136,7 +158,7 @@ export default function Home() {
     });
 
     setFilteredTools(filtered);
-  }, [searchQuery, filters, sortOptions, showFavoritesOnly, isFavorite]);
+  }, [tools, searchQuery, filters, sortOptions, showFavoritesOnly, isFavorite]);
 
   const handleToolClick = (tool: AITool) => {
     setSelectedTool(tool);
@@ -393,7 +415,11 @@ export default function Home() {
         </div>
 
         {/* Tools Grid */}
-        {filteredTools.length === 0 ? (
+        {loading ? (
+          <div className="text-center py-12">
+            <p className="text-muted-foreground">Carregando ferramentas...</p>
+          </div>
+        ) : filteredTools.length === 0 ? (
           <div className="text-center py-12">
             <p className="text-muted-foreground">Nenhuma ferramenta encontrada com os filtros atuais.</p>
             <Button variant="outline" onClick={clearFilters} className="mt-4">
