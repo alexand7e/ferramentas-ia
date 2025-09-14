@@ -1,10 +1,14 @@
 # 🚀 Ferramentas IA
 
-Um catálogo de ferramentas de inteligência artificial para ajudar desenvolvedores, designers, escritores e profissionais de diversas áreas a encontrar as melhores soluções para seus projetos.
+Um catálogo curado de ferramentas de inteligência artificial para ajudar desenvolvedores, designers, escritores e profissionais de diversas áreas a encontrar as melhores soluções para seus projetos.
+
+## 💡 A História Por Trás do Projeto
+
+Este projeto nasceu da frustração de passar horas procurando a ferramenta de IA certa para cada tarefa. Com o crescimento exponencial de novas ferramentas surgindo diariamente, criar um catálogo organizado e sempre atualizado se tornou uma necessidade real.
 
 ## 📋 Sobre o Projeto
 
-Ferramentas IA é uma plataforma web que reúne e categoriza as melhores ferramentas de inteligência artificial disponíveis no mercado. Nosso objetivo é facilitar a descoberta de recursos que podem aumentar sua produtividade e criatividade.
+Ferramentas IA é uma plataforma web que reúne e categoriza as melhores ferramentas de inteligência artificial disponíveis no mercado. Nosso objetivo é facilitar a descoberta de recursos que podem aumentar sua produtividade e criatividade - sem perder tempo navegando por dezenas de sites.
 
 ## ✨ Tecnologias Utilizadas
 
@@ -56,10 +60,11 @@ Para povoar um banco Supabase novo com os dados das ferramentas de IA:
 
 ### 📋 Pré-requisitos
 
-1. Configure as variáveis de ambiente no arquivo `.env.local`:
+1. Configure as variáveis de ambiente no arquivo `.env`:
 ```bash
-NEXT_PUBLIC_SUPABASE_URL=sua_url_do_supabase
-SUPABASE_SERVICE_ROLE_KEY=sua_chave_de_servico
+NEXT_PUBLIC_SUPABASE_URL=https://
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sua-chave-anonima-aqui
+NEXT_PUBLIC_ADMIN_PASSWORD=admin123
 ```
 
 2. Certifique-se de que a tabela `ai_tools` existe no seu banco Supabase
@@ -104,8 +109,10 @@ src/
 
 ## 🤝 Contribuindo
 
-Adoraríamos receber sua contribuição para o projeto! Consulte nosso arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para obter informações sobre como contribuir.
+Contribuições são sempre bem-vindas! Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes sobre como contribuir com o projeto.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+*README escrito com auxílio de inteligência artificial*

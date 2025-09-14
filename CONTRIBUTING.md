@@ -76,3 +76,5 @@ Ao participar deste projeto, você concorda em manter um ambiente respeitoso e c
 Se você tiver alguma dúvida sobre como contribuir, sinta-se à vontade para abrir uma issue perguntando ou entrar em contato com os mantenedores do projeto.
 
 Agradecemos novamente por sua contribuição!
+
+*Texto escrito por inteligência artificial*

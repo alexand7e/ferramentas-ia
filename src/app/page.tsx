@@ -48,6 +48,9 @@ const LANGUAGE_NAMES: Record<Language, string> = {
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');
   const [tools, setTools] = useState<AITool[]>([]);
+  
+  // Easter egg: contador de cliques no logo (porque por que não? 🎯)
+  const [logoClicks, setLogoClicks] = useState(0);
   const [filteredTools, setFilteredTools] = useState<AITool[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedTool, setSelectedTool] = useState<AITool | null>(null);

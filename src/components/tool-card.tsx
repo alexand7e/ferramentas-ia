@@ -4,6 +4,9 @@ import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Heart, ExternalLink, Star } from 'lucide-react';
 
+// Cores personalizadas para diferentes tipos de licença
+// Escolhidas para dar feedback visual imediato sobre custos
+
 interface ToolCardProps {
   tool: AITool;
   isFavorite: boolean;
@@ -14,14 +17,16 @@ interface ToolCardProps {
 
 const LICENSE_COLORS: Record<string, string> = {
   'Gratuito': 'bg-green-100 text-green-800 hover:bg-green-200',
-  'Gratuito e Pago': 'bg-blue-100 text-blue-800 hover:bg-blue-200',
+  'Gratuito e Pago': 'bg-blue-100 text-blue-800 hover:bg-blue-200', 
   'Pago': 'bg-red-100 text-red-800 hover:bg-red-200',
   'Pago (teste gratuito)': 'bg-orange-100 text-orange-800 hover:bg-orange-200'
 };
 
+// Sistema de cores por categoria - ajuda usuários a navegar visualmente
+
 const CATEGORY_COLORS: Record<string, string> = {
   'Escrita e Comunicação': 'bg-purple-100 text-purple-800',
-  'Web e Desenvolvimento': 'bg-blue-100 text-blue-800',
+  'Web e Desenvolvimento': 'bg-blue-100 text-blue-800', 
   'Vídeo e Voz': 'bg-pink-100 text-pink-800',
   'Design e Mídia Visual': 'bg-green-100 text-green-800',
   'Educação': 'bg-yellow-100 text-yellow-800',
