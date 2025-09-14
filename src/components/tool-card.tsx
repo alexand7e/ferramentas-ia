@@ -49,12 +49,12 @@ export function ToolCard({ tool, isFavorite, onFavoriteToggle, onClick, viewMode
             <div className="flex-shrink-0">
               <div className="w-16 h-16 relative">
                 <img
-                  src={tool.icon}
+                  src={tool.icon || '/placeholder-icon.svg'}
                   alt={tool.name}
                   className="w-full h-full object-contain rounded-lg"
                   onError={(e) => {
                     const target = e.target as HTMLImageElement;
-                    target.src = '/placeholder-icon.png';
+                    target.src = '/placeholder-icon.svg';
                   }}
                 />
               </div>
@@ -115,12 +115,12 @@ export function ToolCard({ tool, isFavorite, onFavoriteToggle, onClick, viewMode
         <div className="flex items-center justify-between mb-2">
           <div className="w-12 h-12 relative">
             <img
-              src={tool.icon}
+              src={tool.icon || '/placeholder-icon.svg'}
               alt={tool.name}
               className="w-full h-full object-contain rounded-lg"
               onError={(e) => {
                 const target = e.target as HTMLImageElement;
-                target.src = '/placeholder-icon.png';
+                target.src = '/placeholder-icon.svg';
               }}
             />
           </div>

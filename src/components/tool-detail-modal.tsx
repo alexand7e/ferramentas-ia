@@ -148,7 +148,7 @@ export function ToolDetailModal({
                   className="w-full h-full object-contain rounded-lg"
                   onError={(e) => {
                     const target = e.target as HTMLImageElement;
-                    target.src = '/placeholder-icon.png';
+                    target.src = '/placeholder-icon.svg';
                   }}
                 />
               </div>

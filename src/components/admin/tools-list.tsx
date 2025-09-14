@@ -276,7 +276,7 @@ export default function ToolsList({ onEdit, onDelete, onAdd, onStatsUpdate }: To
                           alt={tool.name}
                           className="w-8 h-8 rounded object-cover"
                           onError={(e) => {
-                            (e.target as HTMLImageElement).src = '/placeholder-icon.png';
+                            (e.target as HTMLImageElement).src = '/placeholder-icon.svg';
                           }}
                         />
                       )}
