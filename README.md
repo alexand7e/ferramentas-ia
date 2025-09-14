@@ -24,8 +24,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **🐻 Zustand** - Gerenciamento de estado simples e escalável
 
 ### 🗄️ Banco de Dados
-- **🗄️ Prisma** - ORM para Node.js e TypeScript
-- **📊 SQLite** - Banco de dados leve para armazenamento local
+- **🗄️ Supabase** - Plataforma de banco de dados PostgreSQL como serviço
+- **📊 PostgreSQL** - Banco de dados relacional robusto e escalável
 
 ### 🌐 Recursos Adicionais
 - **🔌 Socket.IO** - Comunicação em tempo real para recursos interativos
@@ -49,6 +49,44 @@ npm run start      # Para Linux/Mac (requer cross-env)
 ```
 
 Acesse [http://localhost:3000](http://localhost:3000) para ver a aplicação em funcionamento.
+
+## 🗄️ Migração de Dados
+
+Para povoar um banco Supabase novo com os dados das ferramentas de IA:
+
+### 📋 Pré-requisitos
+
+1. Configure as variáveis de ambiente no arquivo `.env.local`:
+```bash
+NEXT_PUBLIC_SUPABASE_URL=sua_url_do_supabase
+SUPABASE_SERVICE_ROLE_KEY=sua_chave_de_servico
+```
+
+2. Certifique-se de que a tabela `ai_tools` existe no seu banco Supabase
+
+### 🚀 Comandos de Migração
+
+```bash
+# Migrar dados do arquivo ai-tools.ts para o Supabase
+npm run migrate:data
+
+# Migrar dados limpando a tabela antes (remove dados existentes)
+npm run migrate:data:clear
+```
+
+### 📊 O que a migração faz:
+
+- ✅ Lê os dados do arquivo `src/data/ai-tools.ts`
+- ✅ Conecta ao Supabase usando as credenciais de ambiente
+- ✅ Insere os dados em lotes de 50 itens para melhor performance
+- ✅ Fornece relatório detalhado do processo
+- ✅ Opção para limpar dados existentes antes da migração
+
+### ⚠️ Importante:
+
+- Use `--clear` apenas se quiser substituir todos os dados existentes
+- A migração requer a chave de serviço do Supabase (não a chave pública)
+- Certifique-se de ter backup dos dados importantes antes de usar `--clear`
 
 ## 📁 Estrutura do Projeto
 
