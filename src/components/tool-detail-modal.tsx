@@ -81,7 +81,7 @@ export function ToolDetailModal({
           url: url,
         });
       } catch (error) {
-        // Fallback to copying to clipboard
+        // Alternativa: copiar para a área de transferência
         await copyToClipboard(url);
       }
     } else {

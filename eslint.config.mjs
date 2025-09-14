@@ -26,12 +26,12 @@ const eslintConfig = [
       "react/display-name": "off",
       "react/prop-types": "off",
       
-      // Next.js 相关规则
+      // Regras relacionadas ao Next.js
       "@next/next/no-img-element": "off",
       "@next/next/no-html-link-for-pages": "off",
       
-      // 一般JavaScript规则
-      "prefer-const": "off",  // 关闭prefer-const规则
+      // Regras gerais do JavaScript
+      "prefer-const": "off",  // Desabilitar regra prefer-const
       "no-unused-vars": "off",
       "no-console": "off",
       "no-debugger": "off",

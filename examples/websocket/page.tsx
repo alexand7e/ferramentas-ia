@@ -19,7 +19,7 @@ export default function SocketDemo() {
   const [isConnected, setIsConnected] = useState(false);
 
   useEffect(() => {
-    // Only initialize socket.io in browser environment and when not in static build
+    // Inicializar socket.io apenas no ambiente do navegador e quando não for build estático
     if (typeof window !== 'undefined' && process.env.NODE_ENV !== 'production') {
       import('socket.io-client').then(({ io }) => {
         const socketInstance = io({
@@ -40,7 +40,7 @@ export default function SocketDemo() {
           setMessages(prev => [...prev, msg]);
         });
       }).catch(() => {
-        // Socket.IO not available in static build
+        // Socket.IO não disponível em build estático
         console.log('Socket.IO not available in static build');
       });
     }

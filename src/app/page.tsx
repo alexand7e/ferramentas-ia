@@ -71,11 +71,11 @@ export default function Home() {
   const { theme, setTheme } = useTheme();
   const { favorites, addFavorite, removeFavorite, isFavorite } = useFavoritesStore();
 
-  // Apply filters and sorting
+  // Aplicar filtros e ordenação
   useEffect(() => {
     let filtered = aiToolsData;
 
-    // Search filter
+    // Filtro de busca
     if (searchQuery) {
       const query = searchQuery.toLowerCase();
       filtered = filtered.filter(tool =>
@@ -86,34 +86,34 @@ export default function Home() {
       );
     }
 
-    // Category filter
+    // Filtro de categoria
     if (filters.categories.length > 0) {
       filtered = filtered.filter(tool => filters.categories.includes(tool.category));
     }
 
-    // License filter
+    // Filtro de licença
     if (filters.licenses.length > 0) {
       filtered = filtered.filter(tool => filters.licenses.includes(tool.license));
     }
 
-    // Language filter
+    // Filtro de idioma
     if (filters.languages.length > 0) {
       filtered = filtered.filter(tool => 
         tool.languages.some(lang => filters.languages.includes(lang))
       );
     }
 
-    // Usability filter
+    // Filtro de usabilidade
     filtered = filtered.filter(tool => 
       tool.usability >= filters.minUsability && tool.usability <= filters.maxUsability
     );
 
-    // Favorites filter
+    // Filtro de favoritos
     if (showFavoritesOnly) {
       filtered = filtered.filter(tool => isFavorite(tool.id));
     }
 
-    // Sorting
+    // Ordenação
     filtered.sort((a, b) => {
       let aValue: any = a[sortOptions.field];
       let bValue: any = b[sortOptions.field];

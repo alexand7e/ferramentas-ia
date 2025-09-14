@@ -219,11 +219,11 @@ function generateHtmlReport(results) {
             const items = document.querySelectorAll('.url-item');
             const buttons = document.querySelectorAll('.filter-btn');
             
-            // Update active button
+            // Atualizar botão ativo
             buttons.forEach(btn => btn.classList.remove('active'));
             event.target.classList.add('active');
             
-            // Filter items
+            // Filtrar itens
             items.forEach(item => {
                 const type = item.dataset.type;
                 const status = item.dataset.status;

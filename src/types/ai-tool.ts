@@ -4,7 +4,7 @@ export interface AITool {
   description: string;
   category: ToolCategory;
   license: LicenseType;
-  usability: number; // 1.0 to 5.0
+  usability: number; // 1.0 a 5.0
   features: string[];
   tags: string[];
   languages: Language[];
@@ -32,10 +32,10 @@ export type LicenseType =
 
 export type Language = 
   | "PT" // Português
-  | "EN" // English
-  | "ES" // Español
-  | "FR" // Français
-  | "DE" // Deutsch
+  | "EN" // Inglês
+  | "ES" // Espanhol
+  | "FR" // Francês
+  | "DE" // Alemão
   | "Multilingue"
 
 export interface FilterOptions {
